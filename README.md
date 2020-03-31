@@ -45,9 +45,7 @@ python -m pip install torch-spline-conv==latest+cpu -f https://pytorch-geometric
 python -m pip install torch-geometric  
 ```
 
-## 2. Setup Python environment for CPU
-
-Reproduce results
+## 3. Reproduce results in terminal
 
 ```
 python train.py --graph-model
