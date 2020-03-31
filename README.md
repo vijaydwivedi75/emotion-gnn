@@ -25,7 +25,6 @@ source ~/.bash_profile    # For OSX
 
 ```
 # Clone GitHub repo
-conda install git
 git clone https://github.com/vijaydwivedi75/emotion-gnn.git
 cd emotion-gnn
 
