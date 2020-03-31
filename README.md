@@ -44,3 +44,11 @@ python -m pip install torch-cluster==latest+cpu -f https://pytorch-geometric.com
 python -m pip install torch-spline-conv==latest+cpu -f https://pytorch-geometric.com/whl/torch-1.4.0.html  
 python -m pip install torch-geometric  
 ```
+
+## 2. Setup Python environment for CPU
+
+Reproduce results
+
+```
+python train.py --graph-model
+```
