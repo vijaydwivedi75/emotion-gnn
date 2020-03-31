@@ -48,5 +48,5 @@ python -m pip install torch-geometric
 ## 3. Reproduce results in terminal
 
 ```
-python train.py --graph-model
+python train.py --graph-model --no-cuda
 ```
