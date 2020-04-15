@@ -25,8 +25,7 @@ source ~/.bash_profile    # For OSX
 
 ```
 # Clone GitHub repo
-conda install git
-git clone xxx
+git clone https://github.com/vijaydwivedi75/emotion-gnn.git
 cd emotion-gnn
 
 # Install python environment
@@ -44,4 +43,26 @@ python -m pip install torch-sparse==latest+cpu -f https://pytorch-geometric.com/
 python -m pip install torch-cluster==latest+cpu -f https://pytorch-geometric.com/whl/torch-1.4.0.html  
 python -m pip install torch-spline-conv==latest+cpu -f https://pytorch-geometric.com/whl/torch-1.4.0.html  
 python -m pip install torch-geometric  
+```
+
+## 3. Reproduce results of the DialogueGCN paper in terminal 
+
+```
+python pytorchgeometric/train.py --graph-model --no-cuda
+```
+
+## 4. Run specific 4-layer GNN model on the newly constructed graphs
+
+Note: For now, sequential encoding is not being used
+```
+python main_emotion_node_classification.py --config configs/emotion_node_classification_MLP_IEMOCAP.json  
+python main_emotion_node_classification.py --config configs/emotion_node_classification_MLP_GATED_IEMOCAP.json   
+python main_emotion_node_classification.py --config configs/emotion_node_classification_GCN_IEMOCAP.json  
+python main_emotion_node_classification.py --config configs/emotion_node_classification_GAT_IEMOCAP.json  
+python main_emotion_node_classification.py --config configs/emotion_node_classification_GraphSage_IEMOCAP.json  
+python main_emotion_node_classification.py --config configs/emotion_node_classification_GIN_IEMOCAP.json  
+python main_emotion_node_classification.py --config configs/emotion_node_classification_MoNet_IEMOCAP.json  
+python main_emotion_node_classification.py --config configs/emotion_node_classification_GatedGCN_IEMOCAP.json  
+python main_emotion_node_classification.py --config configs/emotion_node_classification_GatedGCN_E_IEMOCAP.json  
+
 ```
