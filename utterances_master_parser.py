@@ -1,5 +1,14 @@
+# IEOMCAP Parser file (BETA)
+
 # Improved Script to parse through mutiple files to generate the master file:
 
+# Place this script within the Dialogue transcript folder of the IEOMCAP dataset
+
+# Change and play around with the file IDs of the list to assimilate all the corpus
+
+# Look For the 'utterances_combined.txt' file here
+
+# Author: Suprojit Nandy
 import random 
 import os
 import sys
