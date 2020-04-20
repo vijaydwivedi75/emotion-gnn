@@ -1,0 +1,1885 @@
+Ses01F_impro01_F000 [006.2901-008.2357]: Excuse me.
+Ses01F_impro01_M000 [007.5712-010.4750]: Do you have your forms?
+Ses01F_impro01_F001 [010.0100-011.3925]: Yeah.
+Ses01F_impro01_M001 [010.9266-014.6649]: Let me see them.
+Ses01F_impro01_F002 [014.8872-018.0175]: Is there a problem?
+Ses01F_impro01_M002 [016.8352-019.7175]: Who told you to get in this line?
+Ses01F_impro01_F003 [019.2900-020.7875]: You did.
+Ses01F_impro01_F004 [021.3257-024.7400]: You were standing at the beginning and you directed me.
+Ses01F_impro01_M003 [023.4700-028.0300]: Okay. But I didn't tell you to get in this line if you are filling out this particular form.
+Ses01F_impro01_F005 [027.4600-031.4900]: Well what's the problem?  Let me change it.
+Ses01F_impro01_M004 [028.3950-031.2117]: This form is a Z.X.four.
+Ses01F_impro01_M005 [031.2660-039.3875]: You can't--  This is not the line for Z.X.four.  If you're going to fill out the Z.X.four
+Ses01F_impro01_F006 [038.9650-043.5900]: What?  I'm getting an ID.  This is why I'm here.  My wallet was stolen.
+Ses01F_impro01_M006 [041.2300-046.9800]: No. I need another set of ID to prove this is actually you.
+Ses01F_impro01_F007 [046.5800-052.1900]: How am I supposed to get an ID without an ID?  How does a person get an ID in the first place?
+Ses01F_impro01_M007 [051.4000-057.6400]: I don't know.  But I need an ID to pass this form along.  I can't just send it along without an ID.
+Ses01F_impro01_F008 [056.1600-058.8225]: I'm here to get an ID.
+Ses01F_impro01_M008 [058.1800-062.5900]: No.  I need another ID
+Ses01F_impro01_F009 [061.8700-065.9700]: Like what?  Like a birth certificate?
+Ses01F_impro01_M009 [065.5100-073.0000]: A birth certificate
+Ses01F_impro01_F010 [066.4200-069.3400]: Who the hell has a birth certificate?
+Ses01F_impro01_F011 [072.4500-082.2600]: Yes but my wallet was stolen
+Ses01F_impro01_M010 [081.5900-086.0300]: Yeah.  We keep it on file
+Ses01F_impro01_F012 [085.2700-088.0200]: That's out of control.
+Ses01F_impro01_M011 [087.1500-094.3900]: I don't understand why this is so complicated for people when they get here.  It's just a simple form.  I just need an ID.
+Ses01F_impro01_F013 [093.6700-097.0218]: How long have you been working here?
+Ses01F_impro01_M012 [095.8600-098.6800]: Actually too long.
+Ses01F_impro01_F014 [097.8900-102.9600]: Clearly.  You know
+Ses01F_impro01_M013 [101.8400-107.8700]: Yeah.  Do you want to see my supervisor?  Huh? Yeah.  Do you want to see my supervisor?  Fine.  I'll be right back.
+Ses01F_impro01_F015 [103.9700-106.7100]: That would - I would appreciate that.  Yeah.
+Ses01F_impro02_F000 [007.2688-016.6000]: Did you get the mail? So you saw my letter?
+M: Yeah.
+Ses01F_impro02_M000 [017.6000-020.6264]: It's not fair.
+Ses01F_impro02_F001 [019.8500-022.7800]: Yeah.  I know.
+Ses01F_impro02_M001 [021.7600-027.5558]: I don't understand.  You've already done so much
+Ses01F_impro02_F002 [026.5659-032.2895]: I don't know.  I put in that. request too. They didn't...
+Ses01F_impro02_F003 [032.3075-037.9600]: I guess
+Ses01F_impro02_M002 [038.8500-045.0900]: I don't know
+Ses01F_impro02_F004 [047.3400-053.1100]: There's people that have given more though
+Ses01F_impro02_M003 [052.7100-059.0534]: I just don't see how they can make you leave when you have a new baby - we have a new kid.
+Ses01F_impro02_F005 [058.7500-061.3100]: I know.
+Ses01F_impro02_M004 [061.7500-065.0550]: Then why is that fair?  Why--
+Ses01F_impro02_F006 [064.2550-068.4700]: There's babies over there
+Ses01F_impro02_M005 [069.3400-074.2900]: I don't know how you can be okay with this?  I don't know why you're not-- you're fine with it.
+Ses01F_impro02_F007 [072.3900-078.5700]: I'm not okay with it
+Ses01F_impro02_M006 [080.0300-086.9900]: I'm just trying to think of another way.  I'm just trying to...
+Ses01F_impro02_F008 [087.2031-091.0900]: Just
+Ses01F_impro02_F009 [091.5500-095.8800]: like you sign up because you need money and
+Ses01F_impro02_F010 [097.9400-102.1900]: things just aren't what they seem.
+Ses01F_impro02_M007 [103.2700-107.1000]: This is a stupid war.
+Ses01F_impro02_F011 [107.6800-111.0153]: We're doing the right thing
+Ses01F_impro02_M008 [110.5653-113.2000]: I know.
+Ses01F_impro02_M009 [114.1775-117.8500]: I just don't see why it has to be you.
+Ses01F_impro02_F012 [117.8300-120.8605]: If not me then
+Ses01F_impro02_M010 [120.4105-124.6300]: What am I going to do? Huh?
+Ses01F_impro02_F013 [127.8200-133.9455]: You'll videotape everything
+Ses01F_impro02_M011 [133.8800-137.1000]: Yeah.
+Ses01F_impro02_F014 [139.0300-146.4300]: Maybe you can send it to me
+Ses01F_impro02_M012 [147.0300-151.7101]: Don't you guys have access to computers over there.
+Ses01F_impro02_F015 [151.4221-155.0100]: Last month--  Yeah.
+Ses01F_impro02_M013 [157.9800-162.7100]: I just don't know how I'm going to do it without you.
+Ses01F_impro02_F016 [163.5400-165.7300]: I have to find sitters.
+Ses01F_impro02_M014 [164.8850-169.5000]: I can't raise a baby by myself.  How?
+Ses01F_impro02_F017 [169.3600-176.0150]: We've got friends
+Ses01F_impro02_M015 [175.4700-176.7200]: I know.
+Ses01F_impro02_F018 [176.0800-179.1300]: And your mother is close by.
+Ses01F_impro02_F019 [182.8300-185.8894]: I'll send you lots of letters.
+Ses01F_impro02_F020 [186.5800-191.1100]: And I want lots and lots and lots of pictures.
+Ses01F_impro02_M016 [195.1047-199.5200]: It's just not fair.
+Ses01F_impro03_M000 [003.2400-005.4600]: So what's up?  What's new?
+Ses01F_impro03_F000 [004.8800-007.7400]: Well Vegas was awesome.
+Ses01F_impro03_M001 [006.6000-008.6600]: Yeah.  I heard.
+Ses01F_impro03_F001 [007.9300-011.3700]: And
+Ses01F_impro03_M002 [010.5300-013.8400]: Shut up.  No- in Vegas?
+Ses01F_impro03_F002 [012.8000-015.3700]: Yeah.  In the old town part.
+Ses01F_impro03_M003 [014.9300-018.9075]: Who did you marry?
+Ses01F_impro03_F003 [015.8700-020.4867]: Chuck. [LAUGHTER]
+Ses01F_impro03_M004 [020.2532-022.8300]: Did you propose to you?
+Ses01F_impro03_F004 [021.7500-025.5200]: Um- Yes.  It was very romantic.
+Ses01F_impro03_F005 [025.5584-028.1400]: It was at the slot machines.
+Ses01F_impro03_M005 [027.2800-029.6500]: Oh.  The Wheel of Fortune slots?
+Ses01F_impro03_F006 [028.3700-034.7100]: Uhuh
+Ses01F_impro03_M006 [034.2500-036.3400]: He turned to you and was like...
+Ses01F_impro03_F007 [035.6349-040.1000]: Hey.  Let's get married and I said okay.
+Ses01F_impro03_M007 [037.7175-040.4700]: [LAUGHTER] That's really romantic.
+Ses01F_impro03_F008 [040.1200-042.7900]: Yeah.  Well.  You know
+Ses01F_impro03_M008 [042.0900-043.4100]: Yeah.
+Ses01F_impro03_F009 [042.8400-044.5400]: But we're going to have a honeymoon cruise.
+Ses01F_impro03_M009 [044.1600-049.0700]: Does that mean that you're going to get citizenship
+Ses01F_impro03_F010 [047.8700-051.0750]: Oh.  I hadn't even thought about that.
+Ses01F_impro03_M010 [049.6100-052.4300]: Yeah.  Think about that.
+Ses01F_impro03_F011 [051.3600-053.4925]: He's not going to be a citizen
+Ses01F_impro03_M011 [052.9200-056.8500]: Yeah.  But he'll have like a long visa.  Can you go visit then for a long time?
+M: I think you can.
+Ses01F_impro03_F012 [055.8650-058.1500]: Oh.  Totally.
+M: Yeah. 
+Ses01F_impro03_M012 [057.4600-061.3750]: Oh
+Ses01F_impro03_F013 [060.7300-065.8600]: I guess I'll-  I guess I'll have an internet husband.[LAUGHTER]
+Ses01F_impro03_M013 [065.6425-068.4400]: Like you need another one of those.[LAUGHTER]
+Ses01F_impro03_F014 [068.0100-073.7500]: I have an internet boyfriend.  I guess I'll have to juggle the two.  Is that cheating?  I don't know. Hmm.
+Ses01F_impro03_M014 [073.4100-076.9975]: Is that your phone?
+Ses01F_impro03_F015 [074.2675-078.8425]: Yeah
+Ses01F_impro03_M015 [078.3200-080.5000]: He loves you.
+Ses01F_impro03_F016 [079.0350-081.0875]: He likes to keep tabs
+Ses01F_impro03_M016 [080.7175-082.5225]: How much did he win at the slot?
+Ses01F_impro03_F017 [082.0975-085.0800]: Uh
+Ses01F_impro03_M017 [084.6925-087.3600]: Really? Penny slots?
+Ses01F_impro03_F018 [085.1000-088.0225]: Penny slots. That's what he plays.
+Ses01F_impro03_M018 [087.6425-089.0800]: Wow.
+Ses01F_impro03_F019 [088.0800-089.5000]: Yeah.
+Ses01F_impro03_M019 [089.1200-093.9100]: I'm a big fan of the Wheel of Fortune quarters. But it just costs so much.  I don't know.
+Ses01F_impro03_F020 [091.2350-092.6150]: Oh.
+Ses01F_impro03_F021 [092.7500-098.2100]: Yeah.  We played Wheel of Fortune pennies.  It's like a giant thing with like-
+Ses01F_impro03_M020 [097.0300-101.6500]: But the pennies always get you because you end up spending like
+Ses01F_impro03_F022 [099.7775-102.0300]: Fifty bucks. Mmhmm.
+Ses01F_impro03_M021 [101.6700-104.3500]: like
+Ses01F_impro03_F023 [102.6200-103.4625]: Yeah.
+Ses01F_impro03_F024 [103.7800-108.1825]: Well so now we're married. We have cat children.
+Ses01F_impro03_M022 [105.2900-106.9500]: Awesome.
+Ses01F_impro03_M023 [107.7100-111.4000]: [LAUGHTER] Cat babies.
+Ses01F_impro03_F025 [110.2300-114.1600]: We renamed Brenda
+Ses01F_impro03_M024 [117.3600-119.5800]: That's fair enough.
+Ses01F_impro03_F026 [114.1900-120.2000]: She needs a new name each state that we go into. [LAUGHTER]
+Ses01F_impro04_M000 [002.7418-006.6575]: Have you tried
+Ses01F_impro04_F000 [007.2455-011.6400]: Uh
+Ses01F_impro04_M001 [010.4600-012.1300]: Yeah.
+Ses01F_impro04_F001 [011.7448-016.1500]: I don't know.  Isn't that-- that's all like escort services and things like that.
+Ses01F_impro04_M002 [015.6400-018.9000]: No.  There's regular jobs on there.
+Ses01F_impro04_F002 [018.6000-030.8976]: I don't know.  I mean I've been looking for so long that I just figured that--  I mean
+Ses01F_impro04_M003 [026.9100-028.7100]: Uh huh.
+Ses01F_impro04_M004 [030.8800-035.5225]: I'm just saying I have a friend that got a good job on it so I was just recommending it.
+Ses01F_impro04_F003 [035.0090-037.8000]: What kind of a job?
+Ses01F_impro04_M005 [037.1900-040.5300]: He's like a manager for a theatre.
+Ses01F_impro04_F004 [040.2300-041.9500]: Really?
+Ses01F_impro04_M006 [040.5400-043.5760]: He's like a house manager. Yeah.  It's a good job.
+Ses01F_impro04_F005 [043.3500-045.7596]: He just...
+Ses01F_impro04_F006 [046.2735-049.8300]: you know what?  I heard about that job.  I applied for that.
+Ses01F_impro04_M007 [049.3900-050.5800]: You did?
+Ses01F_impro04_F007 [050.1100-054.3100]: Yeah.  I saw a posting at the theatre.
+Ses01F_impro04_M008 [055.2100-056.3300]: Yeah.
+M: Hmm.
+Ses01F_impro04_F008 [054.3700-055.6700]: He got it?
+Ses01F_impro04_M009 [056.3500-059.0245]: You've been looking for a job for a long time; that was a long time ago.  Right?
+Ses01F_impro04_F009 [058.7100-060.0937]: Yeah.
+Ses01F_impro04_M010 [059.8000-061.5500]: Hmm.
+Ses01F_impro04_F010 [060.6771-066.5275]: What did he do?  What was so great?  I don't understand why they would pick him over me.
+Ses01F_impro04_M011 [065.9700-069.7700]: I don't know.  He had a really good resume I guess and--
+Ses01F_impro04_F011 [069.4300-070.9400]: A resume?
+Ses01F_impro04_M012 [070.3800-072.7264]: Yeah.  Do you have a resume?
+Ses01F_impro04_F012 [072.1300-074.7300]: No.
+Ses01F_impro04_M013 [073.7473-077.1500]: It's kind of helpful when getting a job.
+Ses01F_impro04_F013 [076.4900-080.7269]: I just- I mean I call people up and I tell them what I'm good at.
+Ses01F_impro04_M014 [080.1435-087.8100]: Well maybe we should sit down some time and you can just tell me all the stuff that you have done and I'll write it out.
+Ses01F_impro04_F014 [085.4900-086.9800]: Yeah.
+Ses01F_impro04_F015 [087.2203-093.3300]: I don't like- I don't like sending things in the mail.  I don't want my information out there.
+Ses01F_impro04_M015 [092.3700-099.2700]: No.  You can- or you can just bring it in person.  But they need
+Ses01F_impro04_F016 [097.4100-101.0475]: I'm there in front of them.  I'm telling them what I'm good at.
+Ses01F_impro04_M016 [100.4850-103.4700]: Yeah.  But the piece of paper helps
+Ses01F_impro04_F017 [102.7800-105.4150]: Why?  It's a piece of paper.
+Ses01F_impro04_M017 [104.9700-107.7800]: No.  But it has an outline
+Ses01F_impro04_F018 [106.1700-111.8600]: I just don't want this paper trail
+Ses01F_impro04_M018 [111.6600-117.7250]: I know.  Okay.  Well
+Ses01F_impro04_F019 [114.9200-122.3100]: It's just-- You know
+Ses01F_impro04_M019 [118.4600-119.7700]: Yeah.
+Ses01F_impro04_M020 [121.5000-123.4200]: Okay
+Ses01F_impro04_F020 [122.4000-129.9300]: ..I just-..I just think it's kind of prejudiced and they are really discriminating against people who just aren't that way.
+Ses01F_impro04_M021 [129.4300-139.1600]: Well
+Ses01F_impro04_F021 [133.7400-137.4400]: That's baloney
+Ses01F_impro04_F022 [138.1300-139.8900]: Please.
+Ses01F_impro04_M022 [139.5219-141.8225]: maybe get a car.
+Ses01F_impro04_M023 [144.9125-149.5100]: I just
+Ses01F_impro04_F023 [148.5500-152.8500]: you think that you're better than me because I don't have a car?
+Ses01F_impro04_M024 [151.8400-154.0300]: I didn't say that.
+Ses01F_impro04_F024 [153.1800-155.2925]: You know
+Ses01F_impro04_M025 [154.6000-157.8000]: I am riding the bus
+Ses01F_impro04_F025 [157.1625-159.7000]: Why?  What choice?
+Ses01F_impro04_M026 [158.9500-161.3500]: To save the environment
+Ses01F_impro04_F026 [161.0787-163.7800]: You're saving the environment. mmhmm
+Ses01F_impro04_M027 [162.1200-164.7825]: Yes.  One less car at a time.
+Ses01F_impro04_F027 [164.3925-167.5650]: Interesting.  That's fantastic.
+Ses01F_impro04_M028 [165.4700-166.7100]: Mmhmm.
+Ses01F_impro04_M029 [167.0500-171.4300]: You know
+Ses01F_impro04_F028 [170.8300-172.8400]: I'm not frustrated.
+Ses01F_impro04_M030 [171.7500-175.2600]: ...you can't get a job and refuse to have a resume.
+Ses01F_impro04_F029 [175.2700-178.4300]: Who do you think you are?
+Ses01F_impro04_M031 [178.0033-180.8650]: I don't think I'm anyone.
+Ses01F_impro04_F030 [180.3025-183.4875]: You are so high and mighty.  I just--
+Ses01F_impro04_M032 [182.8200-185.5400]: I- I-I didn't-- okay.
+Ses01F_impro04_F031 [184.4700-188.8700]: Oh.  I'm saving the environment. I'm riding this car because I- I want to.
+Ses01F_impro04_M033 [186.1200-187.4625]: What?  No.
+Ses01F_impro04_M034 [188.0100-190.7100]: What? Oh.  So now you're...
+Ses01F_impro04_F032 [189.1200-192.0200]: The bus
+Ses01F_impro04_M035 [191.2800-195.1300]: you know what?  You don't have to take your anger and your hurt out on me.
+Ses01F_impro04_F033 [193.5875-199.4325]: I can not-- you are not here by choice.  Nobody would ride this bus by choice.
+Ses01F_impro04_M036 [200.2150-202.0825]: Why not?
+Ses01F_impro05_F000 [004.2400-005.2300]: Hi.
+Ses01F_impro05_M000 [003.6100-005.1900]: Hi.  Thanks for waiting.
+Ses01F_impro05_F001 [005.2600-007.1600]: Yeah. This is the fourth line that I have been in.
+Ses01F_impro05_M001 [005.2100-006.4400]: Can I help you?
+Ses01F_impro05_M002 [006.6000-007.7100]: Uh huh.
+Ses01F_impro05_F002 [007.3500-008.8500]: I need my bag.
+Ses01F_impro05_M003 [008.3200-009.8000]: Okay.
+Ses01F_impro05_F003 [009.2000-013.0200]: I flew in over three hours ago
+Ses01F_impro05_M004 [012.2600-013.7800]: Okay.
+Ses01F_impro05_F004 [013.0400-022.7400]: I waited the entire baggage- I waited for the whole baggage carousel four times.  They told me to go to the next one.  I waited through that for three planes and now I'm here.
+Ses01F_impro05_M005 [021.8400-025.9000]: Okay.  Great.  I'm really sorry that you had to do that.  What's your last name?  Let's start there.
+Ses01F_impro05_F005 [025.3500-026.7600]: Nash.
+Ses01F_impro05_M006 [025.9900-027.7272]: Okay.
+Ses01F_impro05_F006 [028.2400-029.9100]: No G.
+Ses01F_impro05_M007 [028.2900-034.1425]: all right- okay.  And you lost your bag? Is that- that the issue?
+Ses01F_impro05_F007 [032.1900-033.5000]: Yes.
+Ses01F_impro05_F008 [033.7800-035.9000]: Flight seven fourteen.
+Ses01F_impro05_M008 [034.7000-036.5200]: Uh-huh.
+Ses01F_impro05_F009 [036.7100-044.0300]: Am I going to be getting
+Ses01F_impro05_M009 [036.9100-042.7600]: Yeah. Yeah
+Ses01F_impro05_M010 [043.8600-049.9700]: I don't see any record of it
+Ses01F_impro05_M011 [049.9700-070.2600]: we've mistakenly lost your baggage.  We're very sorry.  On behalf of Jet Blue I would like to apologize for any inconvenience.  I am allowed to issue you a fifty dollar gift card which you can use any future flights you want to take with us.  I'm very sorry
+Ses01F_impro05_F010 [069.5500-073.7600]: Oh
+Ses01F_impro05_M012 [070.3800-073.1400]: for such an inconvenience and your bag
+Ses01F_impro05_F011 [073.8700-075.5375]: Is this a joke?
+Ses01F_impro05_M013 [073.5500-074.9900]: Yeah.
+Ses01F_impro05_M014 [075.0300-076.4800]: No
+Ses01F_impro05_F012 [075.6100-080.7300]: Are there candid cameras?  Is this that movie? There's that show
+Ses01F_impro05_M015 [080.2200-083.2425]: No
+Ses01F_impro05_F013 [082.7500-086.0600]: So you'll give me money and then I'll get my bag?
+Ses01F_impro05_M016 [085.7200-093.9575]: No.  I'm just giving you money
+Ses01F_impro05_M017 [094.0050-100.4000]: this is the only track record that we have and if it's not listed here then it's probably not anywhere.
+Ses01F_impro05_F014 [099.5200-102.9000]: You're kidding me
+Ses01F_impro05_M018 [100.5500-103.6800]: Once again
+Ses01F_impro05_F015 [103.0050-118.5000]: Do you have any idea-- fifty dollars?  That's supposed to replace everything that I have?  Do you understand how much I have packed in there? Not only does it have sentimental value; it can't be replaced like that.  It was incredibly expensive.
+Ses01F_impro05_M019 [111.2800-112.8100]: Yes.
+Ses01F_impro05_M020 [118.0400-119.3700]: I know.
+Ses01F_impro05_F016 [118.5300-122.4400]: We flew in from Paris.  I've been shopping for three weeks.
+Ses01F_impro05_M021 [121.1900-129.2300]: I'm very sorry.  But if you see the sign that's right behind me here
+Ses01F_impro05_F017 [127.4850-136.8500]: I don't care what you're freaking sign says.  Somebody- Somebody needs to replace everything I've got there and give me money for my inconvenience.
+Ses01F_impro05_M022 [131.0200-133.2500]: Okay. Calm-
+Ses01F_impro05_M023 [136.1900-143.5000]: Actually
+Ses01F_impro05_F018 [137.7150-140.1100]: Do you understand who my husband is?
+Ses01F_impro05_F019 [140.2250-145.6000]: If you're- if you're- if you're looking for a lawsuit
+Ses01F_impro05_M024 [144.8500-151.1600]: We are actually not even allowed--  you know
+Ses01F_impro05_F020 [149.3650-153.8000]: Oh-Oh.  It's a gift.  You're-You're helping me out here?
+Ses01F_impro05_M025 [151.3350-152.7100]: It's a gift.
+Ses01F_impro05_M026 [152.8325-158.5800]: You know
+Ses01F_impro05_F021 [155.6000-160.3600]: You are cruising for a bruising.  You are in so much trouble.
+Ses01F_impro05_M027 [159.6600-161.3700]: With the amount of--
+Ses01F_impro05_F022 [160.4100-163.7975]: Who's in charge?  Who is the president of Jet Blue?
+Ses01F_impro05_M028 [163.2500-166.9900]: Um
+Ses01F_impro05_F023 [163.8800-165.8000]: Because I probably know him.
+Ses01F_impro05_F024 [166.3300-167.7100]: Yeah.
+Ses01F_impro05_M029 [167.1500-173.6300]: Well then maybe you can just call him and he can give you more money.  But right now all I can do--
+Ses01F_impro05_F025 [171.0900-174.2000]: I don't want money
+Ses01F_impro05_M030 [173.7325-178.2625]: Right now all I can do is just give you this fifty dollars
+Ses01F_impro05_F026 [177.6025-179.0900]: What's your name?
+Ses01F_impro05_M031 [178.5900-180.8700]: Oh.  My name is Sean. Hi.
+Ses01F_impro05_F027 [179.2200-183.8450]: Sean.  Great. Do you have a badge number or something?
+Ses01F_impro05_M032 [183.1400-189.3875]: Badge number?  Uh
+Ses01F_impro05_F028 [188.7800-190.8975]: Okay.  I'll do that.
+Ses01F_impro05_M033 [190.2300-196.9000]: Why?  Have I done something wrong?  Have I given you bad service?  I feel like I have done the best I could.
+Ses01F_impro05_F029 [195.3800-199.3300]: I don't think you have done everything you could do because I don't have my bag here yet.
+Ses01F_impro05_M034 [198.6600-205.1700]: If you want
+Ses01F_impro05_F030 [202.8600-206.1700]: A letter? I'll make a personal phone call.
+Ses01F_impro05_M035 [205.6300-211.9400]: Or you can make a phone call.  But I think a letter might be a little more-- in my impression
+Ses01F_impro06_M000 [011.4600-014.7400]: I'm sorry
+Ses01F_impro06_F000 [014.7939-018.1700]: It's okay.
+Ses01F_impro06_M001 [018.4900-024.9100]: Is there anything I can get you?  Do you want me to take care of anything for you or...?
+Ses01F_impro06_F001 [024.0200-025.6900]: No
+Ses01F_impro06_M002 [025.1200-026.5600]: ...pick up anything?
+Ses01F_impro06_F002 [026.0700-027.6500]: No.
+Ses01F_impro06_M003 [028.9700-035.0200]: You know you are welcome to stay at my house if you want to just check out for a couple days and hang out.
+Ses01F_impro06_F003 [034.4500-035.7800]: That's sweet.
+Ses01F_impro06_F004 [036.0700-038.0400]: Thank you.
+Ses01F_impro06_F005 [039.6025-046.2900]: I went to see her headstone a week or two ago.
+Ses01F_impro06_F006 [047.3400-059.3800]: I used to go to cemeteries a lot before she died.  I just
+Ses01F_impro06_M004 [056.1700-057.4900]: Hmm.
+Ses01F_impro06_F007 [059.4525-067.4525]: So I was like wandering around before.  It takes forever to find her headstone; I always lose it. You know.
+Ses01F_impro06_F008 [070.2200-080.1300]: So I was looking at this other one and there was like a piece of candy there and I thought that I would take the candy and put it on her headstone.  And-
+F:Umm.
+Ses01F_impro06_F009 [080.1600-087.7400]: this woman came up and
+Ses01F_impro06_M005 [086.9600-088.6300]: Oh.  She was there?
+Ses01F_impro06_F010 [087.8300-093.6700]: Yeah.  And she was like
+Ses01F_impro06_F011 [101.8300-116.9100]: And I
+Ses01F_impro06_M006 [107.7800-109.2700]: Mmhmm.
+Ses01F_impro06_F012 [117.0700-126.0400]: I don't know.  It just
+Ses01F_impro06_M007 [125.4700-127.1900]: Yeah.
+Ses01F_impro06_F013 [132.9575-134.4900]: I don't know.
+Ses01F_impro06_M008 [134.4000-136.4900]: How long were you there for?
+Ses01F_impro06_F014 [135.9600-137.9500]: At the cemetery?
+Ses01F_impro06_M009 [137.0900-138.4400]: Mmhmm.
+Ses01F_impro06_F015 [138.0685-141.0500]: couple hours.
+Ses01F_impro06_F016 [141.8400-149.4375]: I brought- I brought Chuck with me. He went to Redlands
+Ses01F_impro06_M010 [144.0900-145.6800]: Oh really?
+Ses01F_impro06_M011 [155.0700-158.3800]: You ran through the sprinklers in the cemetery?
+Ses01F_impro06_F017 [158.0800-163.3500]: It was hot.[LIPSMACK]
+Ses01F_impro06_M012 [165.6100-168.1000]: Is it a big cemetery?
+Ses01F_impro06_F018 [167.6400-174.8400]: Yeah.  It's huge.  Redlands is an old city so they have lots and lots of stones.
+Ses01F_impro06_M013 [174.3900-177.1500]: Oh
+Ses01F_impro06_F019 [176.3500-178.0100]: Yeah.
+Ses01F_impro06_F020 [182.5600-197.7300]: It's weird.  Whenever I go back to town
+Ses01F_impro06_F021 [197.7550-214.3400]: My best friend Heather.  She's got a- we have a- we built this like little--  There's a park
+Ses01F_impro06_F022 [217.5000-222.4100]: She used to have these poetry parties on Memorial Day.
+Ses01F_impro06_M014 [219.7300-221.0300]: Mmhmm.
+Ses01F_impro06_F023 [223.5200-227.5500]: Umm. Yeah.
+Ses01F_impro06_F024 [229.0800-235.9800]: And the last time before she died
+Ses01F_impro06_F025 [237.5300-256.4800]: But I mean she could
+Ses01F_impro06_M015 [255.3500-257.3100]: Mmhmm.
+Ses01F_impro06_F026 [266.5500-275.3100]: Some
+F:Mmhmm.
+Ses01F_impro06_M016 [262.9900-266.1750]: So she wrote a lot of poetry?
+Ses01F_impro06_F027 [275.3800-281.6000]: There's another one
+Ses01F_impro06_F028 [282.0100-311.1400]: I remember
+Ses01F_impro06_M017 [308.2400-310.0100]: Mmhmm.Mmhmm.Mmhmm.
+Ses01F_impro07_M000 [002.9700-004.7800]: Did you get the letter?
+Ses01F_impro07_F000 [003.9500-010.5900]: Yes.  There's a big envelope it says
+Ses01F_impro07_M001 [007.5325-011.9600]: Yeah. That is so awesome.
+M: Did you-
+Ses01F_impro07_M002 [013.9200-019.0900]: Oh my God. What are you going to do? [LAUGHTER]
+Ses01F_impro07_F001 [011.3600-016.5575]: So I have to move back to the ghetto but...I know.
+Ses01F_impro07_M003 [020.6800-028.0600]: Oh-Yeah
+Ses01F_impro07_F002 [019.6100-031.6500]: I'm really excited.  Yeah. I don't know how I'm going to pay for anything
+Ses01F_impro07_M004 [030.9150-038.8100]: Oh.  Good
+Ses01F_impro07_F003 [032.5200-034.9000]: Oh- I know
+Ses01F_impro07_F004 [037.1625-042.4900]: I don't know.  I spend so much time commuting as it is
+Ses01F_impro07_M005 [041.1700-046.9975]: This is so- I am so happy that you're going to stay.  You're not going to...We should totally throw a party.
+Ses01F_impro07_F005 [042.9550-045.8850]: I know. We should throw a party.
+Ses01F_impro07_F006 [046.2800-055.4100]: At Arapaho we could afford that. [GARBAGE]. Yeah.  So what are you doing this summer
+Ses01F_impro07_M006 [047.1100-052.8125]: A rapper party ho. Yeah. Okay.
+Ses01F_impro07_M007 [054.1600-063.2800]: I am just- Yeah.  I'm sticking around
+F:Yay.  
+Ses01F_impro07_F007 [063.0200-072.7500]: It's a relief too. I mean I was thinking I was going to have to pack up all of my stuff but yeah. Hooray for U.S.C.
+Ses01F_impro07_M008 [064.6275-067.2400]: Yeah.  Big time.
+Ses01F_impro07_M009 [067.7250-074.0325]: Mmhmm. Mmhmm. Yay. So what major?  What are you doing?
+Ses01F_impro07_F008 [073.5050-080.7800]: Umm. It's...It's uhh...It's Critical Studies. It's a really prestigious program
+Ses01F_impro07_M010 [076.6200-078.1700]: Oh
+Ses01F_impro07_M011 [078.8400-081.3600]: Ooh. Fancy.
+Ses01F_impro07_F009 [081.0275-083.3050]: Yeah.  I'm not sure.
+Ses01F_impro07_M012 [082.6575-087.1025]: Is this a Masters or a P.h.D.?  Or can you...? Nice
+Ses01F_impro07_F010 [084.5100-088.3100]: Umm...P.h.D. [LAUGHTER]
+Ses01F_impro07_M013 [087.5875-090.6500]: That's good.  Don't you have to like teach a class
+Ses01F_impro07_F011 [089.5600-094.8150]: Um
+Ses01F_impro07_M014 [094.2900-099.3700]: Teacher. Mrs. Nash
+Ses01F_impro07_F012 [094.8600-100.7400]: So I get to mold young minds. Mrs.?  That's my mother.
+Ses01F_impro07_M015 [099.9875-110.5400]: You have to get married.  Well you are married to Chuck.  You're Mrs. Nash.  Not to be confused with Mrs. Dash which is the popular seasoning.
+F:[GARBAGE] 
+Ses01F_impro07_F013 [103.2600-110.4600]: I would be like- Oh. Right
+Ses01F_impro07_M016 [110.5400-116.2800]: Mrs. Nash.  That's so awesome
+Ses01F_impro07_F014 [115.6800-126.4100]: Yeah. Yeah I'm excited. Hooray.  And then I'll be a millionaire once I graduate
+Ses01F_impro07_M017 [116.2800-119.8507]: Yay...School's fun.
+Ses01F_impro07_M018 [123.2575-128.0400]: Of course
+Ses01F_impro07_F015 [127.4300-130.3175]: Yeah.  Totally. [LAUGHTER]
+Ses01F_impro07_M019 [128.5400-141.6850]: That's how you get the big bucks.  Are you messing with the chair? Don't ruin it.
+Ses01F_impro07_F016 [133.3125-142.3625]: I know. I made such a mess of it
+Ses01F_script01_1_F000 [006.2100-009.3200]: What's he going to say?
+Ses01F_script01_1_F001 [009.3500-012.8955]: Maybe we should tell him before he sees it.
+Ses01F_script01_1_M000 [011.9892-015.1219]: He saw it.
+Ses01F_script01_1_F002 [014.3063-019.5526]: How could he see it?  I was the first one up; he was still in bed.
+Ses01F_script01_1_M001 [019.0456-022.3962]: He was out here when it broke.
+Ses01F_script01_1_F003 [022.3200-024.6667]: When?
+Ses01F_script01_1_M002 [024.8000-035.9971]: Four o clock this morning.  I heard a crack and I woke up and looked out.  He was standing right over there when it cracked.
+Ses01F_script01_1_F004 [035.3799-039.0900]: What was he doing out here at four o clock in the morning?
+Ses01F_script01_1_M003 [038.6600-040.5300]: I don't know.
+Ses01F_script01_1_F005 [040.0200-044.9688]: He's dreaming of him again
+Ses01F_script01_1_M004 [044.5500-047.2300]: I guess he is.
+Ses01F_script01_1_F006 [046.9500-052.3200]: It's getting to be just like after he died.  What's the meaning of that?
+Ses01F_script01_1_M005 [051.4300-059.5500]: I don't know the meaning of it.  But I know one thing
+Ses01F_script01_1_F007 [058.9500-060.8800]: What?
+Ses01F_script01_1_M006 [062.1628-068.2500]: Being dishonest with him
+Ses01F_script01_1_F008 [067.6000-070.6700]: What do you mean dishonest?
+Ses01F_script01_1_M007 [070.0764-078.8718]: You know Larry is not coming back and I know it.  Why do we allow him to go on thinking that we believe with him?
+Ses01F_script01_1_F009 [078.3648-081.5611]: What do you want to do?  Argue with him?
+Ses01F_script01_1_M008 [081.4068-089.4307]: I don't want to argue but it's time he realized that nobody believes Larry is alive.
+Ses01F_script01_1_M009 [089.7172-101.3800]: You know?  Why shouldn't he walk the nights thinking of him
+Ses01F_script01_1_F010 [100.1400-102.3482]: You can't say that to him.
+Ses01F_script01_1_M010 [102.1000-104.7200]: We've got to say it to him.
+Ses01F_script01_1_F011 [104.2900-108.7408]: Where's the proof?  Do you have any proof?
+Ses01F_script01_1_M011 [108.1897-118.4700]: For God's sake
+Ses01F_script01_1_F012 [117.8228-129.5100]: To you it is
+Ses01F_script01_1_M012 [130.7600-134.5900]: Sit down
+Ses01F_script01_1_F013 [134.0100-141.9500]: It's that the trouble is those God damn newspapers.  Every month some new boy comes back and so the next one is going to be Larry
+Ses01F_script01_1_M013 [141.0500-149.7500]: All right
+Ses01F_script01_1_F014 [150.2700-152.6736]: Why?
+Ses01F_script01_1_M014 [153.8860-155.8699]: You know.
+Ses01F_script01_1_F015 [156.1786-160.6700]: Well I got an idea
+Ses01F_script01_1_M015 [161.9980-165.3487]: I'm going to ask her to marry me.
+Ses01F_script01_1_F016 [165.6573-169.5590]: Well that's only your business
+Ses01F_script01_1_M016 [169.7574-172.1800]: You know it's not just my business.
+Ses01F_script01_1_F017 [171.6300-175.4900]: Well what do you want me to do?  You're old enough to know your own mind.
+Ses01F_script01_1_M017 [174.7833-177.7200]: So all right then
+Ses01F_script01_1_F018 [176.9600-179.7500]: Well you want to make sure that your father is not going to --
+Ses01F_script01_1_M018 [179.2800-181.9475]: Then it's not just my business.
+Ses01F_script01_1_F019 [183.9800-186.0500]: I'm just saying.
+Ses01F_script01_1_M019 [185.0300-195.2800]: You know sometimes you infuriate me.  you know that?  Isn't it your business if I tell father and he throws a fit about it?  God
+Ses01F_script01_1_F020 [194.0600-198.9100]: Oh.  I ignore what I got to ignore.  That girl is Larry's girl.
+Ses01F_script01_1_M020 [197.6000-199.7475]: She's not Larry's girl.
+F: Line.
+M: From mother's point of view
+Ses01F_script01_1_F021 [205.1600-215.1700]: From your father's point of view
+F: From...line.
+M: Now you can go on from here.
+Ses01F_script01_1_F022 [219.0400-223.8200]: Now you can go on from there if you know where to go
+Ses01F_script01_1_M021 [224.7000-236.0500]: I don't know why it is
+F: You're --
+Ses01F_script01_1_F023 [235.2000-238.5600]: You're a considerate fellow
+Ses01F_script01_1_M022 [237.8000-240.4290]: To hell with that.
+Ses01F_script01_1_F024 [241.3769-245.1904]: I just don't see why.  Have you asked Annie yet?
+Ses01F_script01_1_M023 [245.2786-247.5700]: I wanted to get this settled first.
+Ses01F_script01_1_F025 [246.8000-251.4508]: Well how do you know she's going to marry you?  Maybe she feels the same way your father does.
+Ses01F_script01_1_M024 [251.2965-261.0500]: Well if she does
+Ses01F_script01_1_M025 [262.6500-267.2119]: And then we'll thrash it out with father.  Okay Mom?  Don't avoid me.
+Ses01F_script01_1_F026 [266.8300-270.7300]: The trouble is you don't see enough women.  You never did.
+Ses01F_script01_1_M026 [269.7300-274.6626]: So what.  I'm not fast with women.
+Ses01F_script01_1_F027 [274.1997-277.2100]: Why does it have to be Annie?
+Ses01F_script01_1_M027 [276.2400-278.3659]: Because it is.
+Ses01F_script01_1_F028 [278.1500-282.5900]: Oh that's a great reason.  It's no reason at all.
+Ses01F_script01_1_M028 [281.5700-283.8900]: I don't know.
+Ses01F_script01_1_F029 [282.7300-286.9200]: You haven't seen her since you went away to war
+Ses01F_script01_1_M029 [285.9600-296.0300]: I can't help it
+Ses01F_script01_1_M030 [297.0000-300.0700]: Mom
+Ses01F_script01_1_F030 [299.3100-302.1950]: I don't want a diagram.
+Ses01F_script01_1_F031 [304.2300-308.9800]: He thinks he's coming back Chris.
+Ses01F_script01_1_F032 [309.0400-312.7098]: You marry that girl
+Ses01F_script01_1_F033 [312.7400-318.2648]: ...and then what's that going to do to your father?  Do you know?  I don't.
+Ses01F_script01_1_M031 [318.2868-321.9800]: All right
+Ses01F_script01_1_F034 [323.3348-326.0750]: Just give it some more thought.
+Ses01F_script01_1_M032 [325.7300-336.5389]: I've given it three years of thought.  And I'd hope that if I waited
+Ses01F_script01_1_M033 [336.7373-342.3143]: But if I can't do that here
+Ses01F_script01_1_F035 [341.9700-344.8052]: What the hell is this?
+Ses01F_script01_1_M034 [344.4966-350.1500]: I'll get out.  I'll get married and I'll move somewhere else
+Ses01F_script01_1_F036 [349.6300-352.5866]: Are you crazy?
+Ses01F_script01_1_M035 [352.1016-356.8800]: I've been a good son for too long
+Ses01F_script01_1_F037 [356.4000-359.8700]: You have a business here.  What the hell is this?
+Ses01F_script01_1_M036 [359.0300-362.8200]: The business?  The business doesn't inspire me.
+Ses01F_script01_1_F038 [361.8100-364.6100]: Oh.  Must you be inspired?
+Ses01F_script01_1_M037 [363.8700-373.5675]: Yes.  I like it for an hour a day.  I don't care if I have to grub for money all day long
+Ses01F_script01_1_M038 [373.5975-383.1500]: I want some kids
+Ses01F_script01_1_F039 [382.6000-387.9700]: You mean to tell me that you would leave the business over this?
+Ses01F_script01_1_M039 [387.5000-390.1100]: On this
+Ses01F_script01_1_F040 [389.5400-392.9042]: Well you don't want to think like that.
+Ses01F_script01_1_M040 [392.3100-395.6900]: Then help me stay here.
+Ses01F_script01_1_F041 [394.9100-404.6900]: All right.  But you don't want to think like that because what the hell are we working for
+Ses01F_script01_1_M041 [403.4300-407.0400]: I know that.  Then just help me stay here.
+Ses01F_script01_1_F042 [406.3900-409.4600]: Just don't think like that.
+Ses01F_script01_1_M042 [408.9600-412.8536]: Well I am thinking like that.
+Ses01F_script01_1_F043 [412.7875-416.2484]: I don't understand you
+Ses01F_script01_1_M043 [415.9200-420.4807]: No.  You don't.  I'm a pretty tough guy.
+Ses01F_script01_1_F044 [420.3500-423.2141]: I can see that.
+Ses01F_script01_2_F000 [006.7800-010.5900]: Why did he invite her here?
+Ses01F_script01_2_M000 [010.0840-013.4800]: Why does that bother you?
+Ses01F_script01_2_F001 [012.7100-017.2300]: She's been in New York three and an half years
+Ses01F_script01_2_M001 [016.6300-021.6600]: Well maybe...maybe he just wanted to see her.
+Ses01F_script01_2_F002 [021.2500-026.4100]: Nobody comes seven hundred miles just to see.
+Ses01F_script01_2_M002 [025.7300-033.0800]: What do you mean?  You know he lived next door to the girl his whole life
+Ses01F_script01_2_M003 [033.6200-040.5200]: [BREATHING] You don't look at me like that.  He didn't tell me anything more than he told you.
+Ses01F_script01_2_F003 [039.9300-042.9600]: He's not going to marry her.
+Ses01F_script01_2_M004 [042.4400-045.2400]: How do you know he's even thinking about it?
+Ses01F_script01_2_F004 [044.3500-046.3000]: It's got that about it.
+Ses01F_script01_2_M005 [045.8000-047.5900]: Oh.  So what.
+Ses01F_script01_2_F005 [047.1000-050.8500]: What is going on here
+Ses01F_script01_2_M006 [050.6000-052.5500]: Now listen.
+Ses01F_script01_2_F006 [052.0300-056.4200]: She is not his girl.  She knows she's not.
+Ses01F_script01_2_M007 [055.8700-058.2000]: You can't read her mind.
+Ses01F_script01_2_F007 [057.7600-066.6500]: Then why is she still single?  New York is full of men
+Ses01F_script01_2_M008 [066.1000-068.3100]: How do you know why she waited?
+Ses01F_script01_2_F008 [067.4800-078.2600]: Because she knows what I know
+Ses01F_script01_2_M009 [078.3800-082.6500]: Hey look
+Ses01F_script01_2_F009 [082.1200-091.2800]: Nobody in this house dares take away her faith
+Ses01F_script01_2_M010 [090.6500-094.8900]: What do you want me to do? What do you want?
+Ses01F_script01_2_F010 [092.3600-102.1700]: I want you to-- I want you to act like he is coming back
+Ses01F_script01_2_F011 [102.2600-105.7600]: I won't stand for any nonsense.
+Ses01F_script01_2_M011 [106.6100-108.1825]: Kate.
+Ses01F_script01_2_F012 [108.2000-122.3400]: Because if he's not coming back
+Ses01F_script01_2_M012 [109.3800-111.6500]: [BREATHING]
+Ses01F_script01_2_M013 [121.2900-123.2300]: Calm yourself.
+Ses01F_script01_2_F013 [122.4100-132.6200]: Just believe with me
+Ses01F_script01_2_M014 [124.1625-126.3600]: Okay. Calm yourself.
+Ses01F_script01_2_M015 [126.5800-133.7600]: I know. All right
+Ses01F_script01_2_M016 [134.6100-138.0400]: Look at you
+Ses01F_script01_2_F014 [137.9800-140.6900]: I can't help it.
+Ses01F_script01_2_M017 [140.9200-147.5100]: What have I got to hide?  What the hell is the matter with you
+Ses01F_script01_2_F000 [006.7800-010.5900]: Why did he invite her here?
+Ses01F_script01_2_M000 [010.0840-013.4800]: Why does that bother you?
+Ses01F_script01_2_F001 [012.7100-017.2300]: She's been in New York three and an half years
+Ses01F_script01_2_M001 [016.6300-021.6600]: Well maybe...maybe he just wanted to see her.
+Ses01F_script01_2_F002 [021.2500-026.4100]: Nobody comes seven hundred miles just to see.
+Ses01F_script01_2_M002 [025.7300-033.0800]: What do you mean?  You know he lived next door to the girl his whole life
+Ses01F_script01_2_M003 [033.6200-040.5200]: [BREATHING] You don't look at me like that.  He didn't tell me anything more than he told you.
+Ses01F_script01_2_F003 [039.9300-042.9600]: He's not going to marry her.
+Ses01F_script01_2_M004 [042.4400-045.2400]: How do you know he's even thinking about it?
+Ses01F_script01_2_F004 [044.3500-046.3000]: It's got that about it.
+Ses01F_script01_2_M005 [045.8000-047.5900]: Oh.  So what.
+Ses01F_script01_2_F005 [047.1000-050.8500]: What is going on here
+Ses01F_script01_2_M006 [050.6000-052.5500]: Now listen.
+Ses01F_script01_2_F006 [052.0300-056.4200]: She is not his girl.  She knows she's not.
+Ses01F_script01_2_M007 [055.8700-058.2000]: You can't read her mind.
+Ses01F_script01_2_F007 [057.7600-066.6500]: Then why is she still single?  New York is full of men
+Ses01F_script01_2_M008 [066.1000-068.3100]: How do you know why she waited?
+Ses01F_script01_2_F008 [067.4800-078.2600]: Because she knows what I know
+Ses01F_script01_2_M009 [078.3800-082.6500]: Hey look
+Ses01F_script01_2_F009 [082.1200-091.2800]: Nobody in this house dares take away her faith
+Ses01F_script01_2_M010 [090.6500-094.8900]: What do you want me to do? What do you want?
+Ses01F_script01_2_F010 [092.3600-102.1700]: I want you to-- I want you to act like he is coming back
+Ses01F_script01_2_F011 [102.2600-105.7600]: I won't stand for any nonsense.
+Ses01F_script01_2_M011 [106.6100-108.1825]: Kate.
+Ses01F_script01_2_F012 [108.2000-122.3400]: Because if he's not coming back
+Ses01F_script01_2_M012 [109.3800-111.6500]: [BREATHING]
+Ses01F_script01_2_M013 [121.2900-123.2300]: Calm yourself.
+Ses01F_script01_2_F013 [122.4100-132.6200]: Just believe with me
+Ses01F_script01_2_M014 [124.1625-126.3600]: Okay. Calm yourself.
+Ses01F_script01_2_M015 [126.5800-133.7600]: I know. All right
+Ses01F_script01_2_M016 [134.6100-138.0400]: Look at you
+Ses01F_script01_2_F014 [137.9800-140.6900]: I can't help it.
+Ses01F_script01_2_M017 [140.9200-147.5100]: What have I got to hide?  What the hell is the matter with you
+Ses01F_script01_3_F000 [004.8285-008.9243]: You're the only one who still loves his parents.
+Ses01F_script01_3_M000 [008.5900-013.1700]: I know.  It kind of went out of style
+Ses01F_script01_3_F001 [012.3484-017.0473]: It's not so bad; it's a good thing.
+Ses01F_script01_3_F002 [017.1566-026.1173]: [BREATHING] You know
+Ses01F_script01_3_M001 [026.0445-028.8493]: You're not sorry you came.
+Ses01F_script01_3_F003 [028.3100-036.1344]: I'm not sorry
+Ses01F_script01_3_M002 [036.1709-038.5386]: Why not?
+Ses01F_script01_3_F004 [038.3200-041.6000]: For one thing
+Ses01F_script01_3_M003 [041.0000-043.3200]: Well.
+Ses01F_script01_3_F005 [042.8200-047.3300]: And then
+Ses01F_script01_3_M004 [047.2100-049.5100]: What?
+Ses01F_script01_3_F006 [049.1000-053.9831]: Sort of embarrassed ever since I got here.
+Ses01F_script01_3_M005 [054.6200-063.9000]: Well I was kind of planning of sneaking up on you over the course of a week or so.  They just take it for granted that we're all set.
+Ses01F_script01_3_F007 [063.0100-065.8944]: I knew they would.
+Ses01F_script01_3_M006 [067.6792-069.8648]: You did?
+Ses01F_script01_3_F008 [069.6400-075.9100]: Well sure
+Ses01F_script01_3_M007 [078.0800-087.2500]: So would you want to?  I mean
+Ses01F_script01_3_F009 [087.6100-094.6700]: I
+Ses01F_script01_3_F010 [097.0200-098.4227]: [BREATHING]
+Ses01F_script01_3_M008 [098.0700-105.5800]: I love you. Annie
+Ses01F_script01_3_F011 [098.9525-101.7250]: [LAUGHTER]
+Ses01F_script01_3_M009 [106.5092-114.9575]: I don't really have any imagination
+Ses01F_script01_3_F012 [108.9225-114.0700]: [LAUGHTER]
+Ses01F_script01_3_M010 [115.2878-126.5450]: Am I embarrassing you? Are you - See
+Ses01F_script01_3_F013 [117.0000-118.8000]: No. No
+Ses01F_script01_3_M011 [126.6800-137.2162]: You feel uncomfortable here
+Ses01F_script01_3_F014 [137.2890-142.2065]: Chris
+Ses01F_script01_3_M012 [142.9100-147.3790]: And he's gone forever?  Are you sure?
+Ses01F_script01_3_F015 [146.9800-150.5845]: I almost got married two years ago.
+Ses01F_script01_3_M013 [151.0300-153.5714]: Why didn't you?
+Ses01F_script01_3_F016 [153.3875-156.3762]: You started to write me.
+Ses01F_script01_3_M014 [156.3033-159.5400]: You felt something that far back?
+Ses01F_script01_3_F017 [159.0600-161.2300]: Every day since.
+Ses01F_script01_3_M015 [160.7000-163.6600]: Why didn't you let me know?
+Ses01F_script01_3_F018 [162.8000-169.6600]: I was waiting for you
+Ses01F_script01_3_M016 [171.7200-173.6000]: Give me a...
+Ses01F_script01_3_M017 [173.6700-175.7325]: Give me a kiss.
+Ses01F_script01_3_M018 [180.2600-186.3491]: God.  I kissed you Annie.
+Ses01F_script01_3_F019 [169.6900-172.4600]: beating around the bush.
+F:[LAUGHTER]
+Ses01F_script01_3_F020 [186.2090-193.6800]: I will never forgive you.  All I'd done was sit around wondering if I was crazy waiting so long
+Ses01F_script01_3_M019 [191.1025-196.7400]: Oh Annie
+Ses01F_script01_3_F021 [196.1400-198.8950]: Not like that you're not.
+Ses01F_script01_3_M020 [199.1000-201.4000]: I kissed you.
+Ses01F_script01_3_F022 [200.9200-206.2900]: Like Larry's brother.  Do it like you
+Ses01F_script01_3_F023 [212.5813-215.6700]: Chris
+Ses01F_script01_3_M021 [216.4800-220.0400]: Hey
+Ses01F_script01_3_F024 [218.5400-222.9675]: No. What is it?  Is it your mother?
+Ses01F_script01_3_M022 [222.6800-225.5000]: No it's nothing like that. It's-
+Ses01F_script01_3_F025 [225.0400-232.9798]: Then what?  Chris.  Even in your letters
+Ses01F_script01_3_M023 [232.7248-240.3000]: Yeah.  I suppose I have been. But it's going from me.
+Ses01F_script01_3_F026 [240.6200-243.6500]: You've got to tell me.
+Ses01F_script01_3_M024 [243.8300-247.5200]: I don't even know how to start.
+Ses01F_script01_3_F027 [247.4800-250.6200]: It wouldn't work like this.
+Ses01F_script01_3_M025 [251.5000-259.7300]: It's just all mixed up with so many other things
+Ses01F_script01_3_F028 [259.1300-261.6600]: Yeah
+Ses01F_script01_3_M026 [261.7500-264.9617]: Well I lost them.
+Ses01F_script01_3_F029 [266.3100-268.5425]: How many?
+Ses01F_script01_3_M027 [268.5600-270.7875]: Pretty much all.
+Ses01F_script01_3_F030 [270.6600-273.2600]: Aw
+Ses01F_script01_3_M028 [272.4400-283.5024]: You can't just toss off a thing like that because they weren't just men. You know?
+Ses01F_script01_3_M029 [283.7300-304.5800]: Like for instance
+Ses01F_script01_3_M030 [304.7751-319.9900]: They didn't die
+Ses01F_script01_3_M031 [320.9000-344.4800]: And I had this idea as I was watching them go down.  Everything was being destroyed
+Ses01F_script01_3_F031 [344.1800-345.7400]: Mmhmm.
+Ses01F_script01_3_M032 [345.9000-359.2200]: To bring that on to the earth again
+Ses01F_script01_3_M033 [360.2517-378.3500]: But then I came home and it was incredible
+Ses01F_script01_3_M034 [378.4700-383.6500]: Driving my new car and seeing a new refrigerator.
+Ses01F_script01_3_M035 [384.5200-400.6480]: I mean...You can't take those things out of a war. when you drive that car and you see that new refrigerator
+Ses01F_script01_3_M036 [401.9100-412.5900]: And I didn't want any of it. I guess that included you.
+Ses01F_script01_3_F032 [415.8011-419.8444]: Do you still feel that way?
+Ses01F_script01_3_M037 [419.4437-422.5035]: I just want you to know Annie.
+Ses01F_script01_3_F033 [422.4670-432.4477]: Because you mustn't feel that way.  Everything you have
+Ses01F_script01_3_F034 [432.5570-450.4700]: Even me.  And your money?  Chris
+Ses01F_script01_3_M038 [451.0400-460.2800]: Annie
+Ses01F_script01_3_F035 [459.5700-463.0600]: What would I do with a fortune?
+Ses01F_script02_1_M000 [001.8151-009.0350]: What time is it?  I think it's supposed to run around midnight
+Ses01F_script02_1_M001 [009.0925-015.6200]: Actually I want to get a little further up the coast
+Ses01F_script02_1_F000 [015.1400-017.2100]: Fine.
+Ses01F_script02_1_M002 [016.9600-020.0000]: Okay.  Is that
+Ses01F_script02_1_M003 [020.0500-026.6500]: No.  That's just foam.  I don't know.  I can't tell.
+Ses01F_script02_1_F001 [025.9100-027.4125]: [BREATHING]
+Ses01F_script02_1_M004 [027.1300-035.7987]: I don't know
+F: [Mumbles something]
+Ses01F_script02_1_M005 [035.8990-039.4800]: Oh no.  you know what I forgot?
+Ses01F_script02_1_F002 [038.9900-040.0500]: What?
+Ses01F_script02_1_M006 [039.5000-045.4500]: My flashlight.  God
+Ses01F_script02_1_F003 [045.0600-047.0300]: What flashlight?
+Ses01F_script02_1_M007 [046.4200-049.9500]: The flashlight
+Ses01F_script02_1_F004 [049.2200-051.4000]: That's not your flashlight.
+Ses01F_script02_1_M008 [050.8500-052.4000]: Whose is it?
+Ses01F_script02_1_F005 [051.8700-054.2300]: It's ours; it's my flashlight too.
+Ses01F_script02_1_M009 [053.7600-055.4800]: Oh...well. Yeah
+Ses01F_script02_1_F006 [054.7200-057.6900]: You keep saying my flashlight like it's just yours.
+Ses01F_script02_1_M010 [057.2900-058.4200]: No.
+Ses01F_script02_1_F007 [057.7500-059.5700]: How's that supposed to make me feel?
+Ses01F_script02_1_M011 [058.8800-065.6016]: Of course
+Ses01F_script02_1_M012 [065.7270-073.0100]: Naturally.  God
+Ses01F_script02_1_M013 [073.1527-077.1400]: Do they always run during a full moon?  I don't remember.  Was it full last year?
+Ses01F_script02_1_F008 [076.2700-077.6400]: Yeah.
+Ses01F_script02_1_M014 [077.1900-087.6779]: Huh.  Are you cold?  Do you want my jacket?  No?  you know
+Ses01F_script02_1_M015 [087.8250-094.5265]: Aw.  Do you know
+Ses01F_script02_1_M016 [094.6400-100.4000]: God
+M: Uh oh. 
+Ses01F_script02_1_F009 [101.7200-103.5025]: [LAUGHTER]
+Ses01F_script02_1_M017 [104.2500-111.2300]: I wonder if they can hear me talk or like feel the vibrations in the sand when we move around.
+Ses01F_script02_1_F010 [110.7700-112.6900]: I'm cold.
+Ses01F_script02_1_M018 [112.1900-114.3500]: Do you want my jacket?
+Ses01F_script02_1_F011 [113.7900-115.9800]: It's after eleven
+Ses01F_script02_1_M019 [115.8753-121.9194]: What?  We just got here.  What's the point of coming all the way down here if we just turn around and go home?
+Ses01F_script02_1_F012 [121.6500-123.2300]: There is no point.
+Ses01F_script02_1_M020 [122.7000-124.5900]: Right.
+Ses01F_script02_1_F013 [124.0500-126.0400]: That's my point.
+Ses01F_script02_1_M021 [125.7500-127.9600]: Wait
+Ses01F_script02_1_F014 [127.4400-129.3900]: Well
+Ses01F_script02_1_M022 [128.8000-137.7400]: No
+Ses01F_script02_1_F015 [137.2900-139.6146]: Not particularly.
+Ses01F_script02_1_M023 [139.1100-141.0400]: Why not?
+Ses01F_script02_1_F016 [140.5000-143.0700]: I just don't.  It's stupid.
+Ses01F_script02_1_M024 [142.7800-155.6400]: Honey
+Ses01F_script02_1_F017 [154.9000-163.9900]: Pass what up?  I mean these fish swim out of the ocean
+Ses01F_script02_1_M025 [163.1900-176.2823]: Yeah.  But this..this moment on the beach is like the highlight of their little lives.  All that flopping around is laying eggs or what to do - spawning or mating or whatever.
+Ses01F_script02_1_M026 [176.3975-181.5500]: This is a big night for these little guys.  It's like life's last orgy.
+Ses01F_script02_1_F018 [180.6769-189.4500]: I don't see why you're so excited; this isn't a freaking moon landing we are talking about.  It's fish.  It's a fish nobody even eats.
+Ses01F_script02_1_M027 [188.8800-190.4700]: Yeah they do.
+Ses01F_script02_1_F019 [189.9300-191.5900]: Oh Augie
+Ses01F_script02_1_M028 [191.1300-201.9700]: okay... well
+Ses01F_script02_1_M029 [202.0250-209.4025]: There's like mystery here
+Ses01F_script02_1_F020 [208.3800-210.2000]: I'm just not.
+Ses01F_script02_1_M030 [209.6300-211.1150]: For real?
+Ses01F_script02_1_F021 [210.6400-211.9200]: Yeah.
+Ses01F_script02_1_M031 [211.5500-218.5600]: God
+Ses01F_script02_1_M032 [218.6125-225.2700]: And last year
+Ses01F_script02_1_F022 [224.5800-237.0050]: Last time
+Ses01F_script02_1_M033 [236.5000-238.7700]: Ahh...we weren't in a good spot.
+Ses01F_script02_1_F023 [238.1400-240.7300]: Hmm.  We didn't see them the year before either.
+Ses01F_script02_1_M034 [240.1700-245.7100]: We just weren't in a good spot.  I'm telling you
+F: [Mumbles] Oh yeah.
+Ses01F_script02_1_M035 [245.7900-253.1140]: Look there
+Ses01F_script02_1_M036 [253.1700-261.4425]: God
+Ses01F_script02_1_M037 [261.5675-276.6283]: Right now out there
+Ses01F_script02_1_M038 [276.7775-291.4000]: Just all at once
+Ses01F_script02_1_M039 [291.4700-298.1386]: They are swimming right now.  They are swimming as if that is the only thing that matters to them.
+Ses01F_script02_1_M040 [298.2452-305.6600]: It's single mindedness with no mind.  It is urgency that is just pure urge.
+Ses01F_script02_1_M041 [305.9850-316.0900]: And they are swimming right now to this very point where we stand for this huge celebration of sex and death.
+Ses01F_script02_1_M042 [316.1527-321.7375]: Oh look.  I'm giving myself goose bumps
+Ses01F_script02_1_F024 [321.2100-323.8200]: That's the wind.
+Ses01F_script02_1_M043 [324.1500-327.0891]: So what do you think?
+Ses01F_script02_1_F025 [326.5600-329.0300]: About what?
+Ses01F_script02_1_M044 [328.2400-331.9283]: About all of that
+Ses01F_script02_2_M000 [003.1700-006.2675]: Look at this
+Ses01F_script02_2_F000 [005.8300-008.3081]: That's the wind.
+Ses01F_script02_2_M001 [007.7800-010.2200]: Well
+Ses01F_script02_2_F001 [009.5800-011.4525]: About what?
+Ses01F_script02_2_M002 [010.9900-013.4131]: About what I was saying.
+Ses01F_script02_2_F002 [013.2797-017.0500]: I think it's ridiculous.
+Ses01F_script02_2_M003 [016.4100-022.2600]: It certainly is not.  It's slightly exaggerated scientific fact.
+Ses01F_script02_2_F003 [021.8300-029.7100]: It's PR! Somebody sold you a bunch of crap that there is this wonderful thing that is going to happen tonight on the beach.
+Ses01F_script02_2_M004 [028.9400-031.6600]: Not just me
+Ses01F_script02_2_F004 [031.2100-043.4739]: Everybody's told the same story.  It keeps us coming back for more
+Ses01F_script02_2_M005 [042.7835-045.9825]: Are we talking about the same thing
+Ses01F_script02_2_F005 [045.4200-049.0894]: I'm sorry
+Ses01F_script02_2_M006 [049.2000-056.0900]: Carla
+Ses01F_script02_2_F006 [055.6700-061.9600]: Don't ask me that.  I hate it when you ask me that
+Ses01F_script02_2_M007 [061.2800-063.5700]: Well then
+Ses01F_script02_2_F007 [063.1500-068.8600]: We just have different ideas of what this night is supposed to look like.
+Ses01F_script02_2_M008 [068.3400-077.8800]: There is nothing to it; we come down here
+Ses01F_script02_2_F008 [075.6600-081.6545]: For God- Grow up
+Ses01F_script02_2_M009 [081.1500-082.7975]: Why not?
+Ses01F_script02_2_F009 [082.3400-086.5400]: Because they never do.  Have they...Have they ever?
+Ses01F_script02_2_M010 [086.1500-088.4300]: We've missed them twice.
+Ses01F_script02_2_F010 [087.7100-091.3205]: Twice is every time we have tried; that's ever.
+Ses01F_script02_2_M011 [091.5046-094.8877]: They'll show up this time.
+Ses01F_script02_2_F011 [094.5325-098.8125]: No they won't.  It's like waiting for Santa Claus.
+Ses01F_script02_2_F012 [098.8450-111.6500]: I feel like my whole life is going to be spent standing on this beach with my eyes wide open and my hands clasped expectantly waiting for fish to show up.  And the fish never show up.
+Ses01F_script02_2_M012 [110.8500-113.9400]: I thought you wanted to see it.
+Ses01F_script02_2_F013 [113.3900-115.7800]: You don't understand anything I am saying.
+Ses01F_script02_2_M013 [115.0300-117.2346]: No. Of course not.
+Ses01F_script02_2_F014 [116.9814-124.0468]: I did want to see it
+Ses01F_script02_2_F015 [124.0928-134.5900]: I feel like I'm always just standing here waiting.  I feel like this night is going to be the night
+Ses01F_script02_2_M014 [133.6600-136.7425]: It's just fish
+Ses01F_script02_2_F016 [136.1600-139.3300]: For God's sake
+Ses01F_script02_2_M015 [138.6200-144.1450]: Okay.  I'm trying to work this backwards and pinpoint the exact moment where we took a turn for the worst here.
+Ses01F_script02_2_M016 [144.1650-159.8000]: Okay.  So you were fine during that phone call from Marge and then dinner was okay.  And doing the dishes was fine and then I was going to take a shower and you're watching the news and you said the grunions are running tonight
+Ses01F_script02_2_M017 [159.8775-165.3700]: Okay.  So I am putting out the pets
+Ses01F_script02_2_F017 [165.7200-172.6700]: Do you remember the first year we came here?  It was like four years after we got married.
+Ses01F_script02_2_F018 [173.9200-187.6100]: We thought I was pregnant
+Ses01F_script02_2_F019 [187.8883-204.1594]: You whispered the sweetest
+Ses01F_script02_2_M018 [203.5900-206.9211]: Wait a minute
+Ses01F_script02_2_F020 [206.4200-209.2600]: Drinking champagne from the bottle
+Ses01F_script02_2_M019 [211.3400-221.8950]: It's when we were driving past that Knickerbocker Liquor Locker
+Ses01F_script02_2_F021 [209.2900-211.9500]: dancing barefoot in the sand.
+Ses01F_script02_2_M020 [221.9724-227.6800]: That's what it is?  Right?  You want this to be like the other time
+Ses01F_script02_2_F022 [227.2196-233.5946]: I'd rather not remember some things.  I'd rather not hope for some things.
+Ses01F_script02_2_M021 [232.8800-237.9673]: Sure.  All right.  Okay.
+Ses01F_script02_2_M022 [238.0133-243.3756]: Listen
+Ses01F_script02_2_F023 [243.1455-245.4699]: No.
+Ses01F_script02_2_M023 [244.9200-247.8800]: Do you want me to go get some champagne?
+Ses01F_script02_2_F024 [247.4089-249.0832]: No.
+Ses01F_script02_2_M024 [249.0900-250.9200]: Do you want to take off your shoes?
+Ses01F_script02_2_F025 [250.1400-253.9225]: No
+Ses01F_script02_2_M025 [251.8900-253.4098]: Then what?
+Ses01F_script02_2_M026 [256.8300-260.8204]: Do you want to get married again?
+Ses01F_script02_2_F026 [260.2214-262.0632]: No.
+Ses01F_script02_2_M027 [261.7500-266.7811]: What?  What?  Do you want a divorce?
+Ses01F_script02_2_M028 [267.0343-269.5888]: A vacation?
+Ses01F_script02_2_F027 [269.5575-271.5911]: No.
+Ses01F_script02_2_M029 [270.9007-279.6400]: Like a new carpet?  A poodle?  A back rub?  Ice cream?  A suicide pact?  What do you want?  What the hell do you want?
+Ses01F_script02_2_F028 [278.7400-282.9200]: I just want something to turn out like I expected it to.
+Ses01F_script02_2_M030 [282.0800-294.3000]: Well welcome to the human race
+Ses01F_script02_2_F029 [291.9425-293.3800]: [BREATHING]
+Ses01F_script02_2_M031 [294.3300-309.0300]: No I'm just like you.  I thought it was going to be all roses and peaches and the bills would just pay themselves.  And we'll have three
+Ses01F_script02_2_M032 [309.0850-311.7279]: Do you know what you get?  You get this.
+Ses01F_script02_2_F030 [311.4518-317.1300]: This? What is this?  This is nothing.  This isn't even anything.
+Ses01F_script02_2_M033 [316.8500-319.8750]: Yes it is.
+Ses01F_script02_2_F031 [319.4461-324.9325]: Sure.  This is standing on the beach waiting.  This is fighting.
+Ses01F_script02_2_M034 [324.4100-326.3400]: Right
+Ses01F_script02_2_F032 [327.9760-334.5600]: I mean this is a lot of things
+Ses01F_script02_2_M035 [331.6100-335.1425]: [BREATHING]
+Ses01F_script02_2_F033 [334.7500-337.8491]: Do you understand what I am saying?
+Ses01F_script02_2_M036 [337.3198-339.8275]: I'm doing the best I can.
+Ses01F_script02_2_F034 [339.3400-343.8100]: I know you are Augie
+Ses01F_script02_2_F035 [352.6600-366.2026]: I know you meant this to be special
+Ses01F_script02_2_M037 [366.2026-369.0947]: Maybe if you were with someone else
+Ses01F_script02_2_F036 [368.6300-370.8000]: I didn't say that.
+Ses01F_script02_2_M038 [373.5100-377.1344]: I just- I know I don't make you happy.
+Ses01F_script02_2_F037 [376.6511-384.0300]: Don't be ridiculous.  Anything that- anything I am doing
+Ses01F_script02_2_M039 [384.0157-385.6925]: Yeah?
+Ses01F_script02_2_F038 [385.3000-388.7500]: Yeah.  Don't you know that?
+Ses01F_script02_2_F039 [389.7462-393.4700]: For Heaven's sake Augie.
+Ses01F_script02_2_F040 [394.9704-404.9600]: You're the one who probably wishes he was with somebody else.  Somebody who doesn't take things so seriously
+Ses01F_script02_2_M040 [406.0100-412.7900]: You know
+Ses01F_script02_2_F041 [413.7500-419.3655]: So maybe we are in the wrong spot
+Ses01F_script02_2_M041 [419.3800-423.7152]: I don't know
+Ses01F_script02_2_M042 [425.4413-429.7000]: We have a great view of the moon from here
+Ses01F_script02_2_F042 [428.8300-435.0600]: Hmm.  I noticed that
+Ses01F_script02_2_M043 [434.6255-436.0279]: [BREATHING]
+Ses01F_script02_2_M044 [436.3040-439.4800]: And look what I got here.
+Ses01F_script02_2_F043 [438.9800-442.8150]: Augie
+Ses01F_script02_2_M045 [442.3600-444.5600]: It's not champagne.
+Ses01F_script02_2_F044 [444.2349-446.3700]: I guess we don't need glasses.
+Ses01F_script02_2_M046 [445.9900-447.8802]: [BREATHING]
+Ses01F_script02_2_M047 [449.3991-453.6338]: Do you want to go home?  Are you cold?
+Ses01F_script02_2_F045 [455.5669-460.1600]: I'm beginning to think this might be the right spot after all.
+Ses01F_script02_2_F046 [463.6525-466.1765]: Augie
+Ses01F_script02_2_M048 [465.4700-472.4700]: Shh.  If we're very quiet
+Ses01F_script02_2_F047 [473.6101-476.5559]: Or not.
+Ses01F_script02_2_M049 [476.6710-479.1565]: Or not.
+Ses01F_script03_1_M000 [004.2888-006.1800]: Good God.
+Ses01F_script03_1_F000 [005.5300-007.7000]: Is it them?
+Ses01F_script03_1_M001 [007.2900-009.1800]: I wonder.
+Ses01F_script03_1_F001 [008.7400-015.2000]: Freda is the only one who knows we are here.  She wouldn't ring up.
+Ses01F_script03_1_M002 [014.6400-017.4300]: It must be them then.
+Ses01F_script03_1_F002 [017.2000-022.7100]: It had to happen sooner or later.  What are we going to do?
+Ses01F_script03_1_M003 [019.8475-021.2900]: [BREATHING]
+Ses01F_script03_1_M004 [022.1600-024.9500]: We are okay
+Ses01F_script03_1_F003 [024.4700-027.4400]: Now and always
+Ses01F_script03_1_M005 [026.8600-029.5200]: I don't care then.
+Ses01F_script03_1_F004 [028.9600-032.9400]: It had to happen sooner or later.
+Ses01F_script03_1_M006 [033.9200-039.3100]: Hello?  Hello?  I'm sorry
+Ses01F_script03_1_M007 [039.5000-045.7750]: No.  Wrong number. [LAUGHTER]
+Ses01F_script03_1_F005 [041.1700-047.6400]: [LAUGHTER] That sent shivers up my spine.
+Ses01F_script03_1_M008 [046.7200-051.9842]: What shall we do if they suddenly walk in on us.[LAUGHTER]
+Ses01F_script03_1_F006 [051.2835-053.8175]: We'll behave exquisitely.
+Ses01F_script03_1_M009 [053.2800-055.3300]: With perfect poise.
+Ses01F_script03_1_F007 [054.6100-056.8000]: I think I shall do a curtsy.
+Ses01F_script03_1_M010 [056.3700-064.4300]: It's strange; things that ought to matter dreadfully
+Ses01F_script03_1_F008 [063.4100-067.4075]: Hmm.  The pity is that one can't stay happy.
+Ses01F_script03_1_M011 [066.8400-069.2900]: Darling
+Ses01F_script03_1_F009 [068.7000-071.8100]: It's true.  I think the whole thing's a cruel joke.
+Ses01F_script03_1_M012 [071.0000-075.4300]: What?  This beautiful and sacred thing - love?
+Ses01F_script03_1_F010 [074.6500-077.1800]: Yes.  Meaning just that.
+Ses01F_script03_1_M013 [076.3200-086.5180]: Well what does it all mean?  That's what I ask myself in my quest for ultimate truth.  Dear God
+Ses01F_script03_1_F011 [084.4700-088.2600]: Don't laugh at me.  I'm being serious.
+Ses01F_script03_1_M014 [087.7600-092.5700]: Oh darling
+Ses01F_script03_1_F012 [092.1400-093.6600]: Who's they?
+Ses01F_script03_1_M015 [093.2300-100.1600]: All of those futile moralists who make life unbearable.  You have to laugh at them
+Ses01F_script03_1_M016 [100.1950-106.5500]: You know
+Ses01F_script03_1_F013 [105.9400-109.3900]: you know if I laugh at everything then I must laugh at us
+Ses01F_script03_1_M017 [108.8700-113.0200]: Oh of course.  We are figures of fun.  All right.
+Ses01F_script03_1_F014 [112.4000-118.3800]: How long with it last
+Ses01F_script03_1_M018 [118.0823-120.5300]: Who knows?
+Ses01F_script03_1_F015 [120.0800-122.4300]: Shall we always want to bicker and fight?
+Ses01F_script03_1_M019 [121.9500-127.1500]: Oh no.  That fire will fade along with our passion.
+Ses01F_script03_1_F016 [126.1000-128.9675]: Oh dear
+Ses01F_script03_1_M020 [128.3800-131.7700]: Well it depends on how well we've played.
+Ses01F_script03_1_F017 [131.8800-136.8000]: What happens if one of us dies?  Does the other one still laugh?
+Ses01F_script03_1_M021 [136.5000-140.4925]: Yes.  Yes with all of his might.
+Ses01F_script03_1_F018 [139.9400-142.6900]: Well that's serious enough
+Ses01F_script03_1_M022 [142.2400-150.9200]: No
+Ses01F_script03_1_F019 [149.9500-153.0800]: I think you are talking nonsense.
+Ses01F_script03_1_M023 [152.1300-155.0425]: Oh.  So is everyone
+Ses01F_script03_1_M024 [155.1150-167.7000]: Let's be superficial
+Ses01F_script03_1_F020 [165.1525-169.7325]: [LAUGHTER]
+Ses01F_script03_1_M025 [168.6900-176.2700]: Oh Come and kiss me darling before your body rots and worms pop out of your eye sockets.
+Ses01F_script03_1_F021 [174.8825-178.8500]: Oh Elliott
+Ses01F_script03_1_M026 [178.9700-195.6000]: Oh See
+Ses01F_script03_1_F022 [194.8500-204.0100]: Aw.  Thank you
+Ses01F_script03_1_M027 [204.5900-210.7575]: Do you remember that awful scene we had in Venice?
+Ses01F_script03_1_F023 [208.8925-211.4200]: Which particular one?
+Ses01F_script03_1_M028 [211.0300-215.8300]: The one where you put that tiny painted wooden snake in my bed.
+Ses01F_script03_1_F024 [215.2800-220.3500]: Oh Charles
+Ses01F_script03_1_M029 [216.6325-218.5225]: [GARBAGE]
+Ses01F_script03_1_M030 [219.2200-221.8200]: It was a terrible thing.  I hated it.
+Ses01F_script03_1_F025 [221.1200-226.8700]: I know you did.  You threw him out the window into the Grand Canal.  I'll never forgive you for that.
+Ses01F_script03_1_M031 [226.3200-228.8900]: How long did that row last?
+Ses01F_script03_1_F026 [228.3700-231.0700]: It went on intermittently for days.
+Ses01F_script03_1_M032 [230.3700-231.9050]: Uh huh.
+Ses01F_script03_1_M033 [232.1675-238.4900]: But the worst one was in Cannes when your curling irons burnt a hole in my new dressing gown.
+Ses01F_script03_1_F027 [237.4000-242.2600]: Oh And it burnt my comb
+Ses01F_script03_1_M034 [241.6000-245.8700]: That was a rouser
+Ses01F_script03_1_F028 [244.0875-248.0700]: [LAUGHTER] That was the first time you hit me.
+Ses01F_script03_1_M035 [247.7400-250.7000]: I did not hit you very hard.
+Ses01F_script03_1_F029 [250.2200-262.4300]: The manager came in
+Ses01F_script03_1_M036 [256.8500-262.0325]: [LAUGHTER] I'll never forget his face. [LAUGHTER]
+Ses01F_script03_1_M037 [262.3975-267.4500]: [LAUGHTER] We were very much younger then.
+Ses01F_script03_1_F030 [262.4600-269.6400]: [LAUGHTER] And very much sillier.
+Ses01F_script03_1_M038 [271.6400-276.2000]: However I believe the real cause of that row was Peter Burden.
+Ses01F_script03_1_F031 [275.9100-279.9900]: Oh.  You knew there was nothing in that.
+Ses01F_script03_2_M000 [003.1785-006.2400]: We were very much younger then.
+Ses01F_script03_2_F000 [004.8100-010.0600]: And very much sillier.
+Ses01F_script03_2_M001 [009.5600-016.0125]: However I believe the real cause of that row was Peter Burden.
+Ses01F_script03_2_F001 [015.4800-019.5500]: Oh.  You knew there was nothing in that.
+Ses01F_script03_2_M002 [018.6600-023.0400]: I knew nothing of the sort.  You took presents from him.
+Ses01F_script03_2_F002 [022.3100-026.1300]: Presents?  It was only a trivial
+Ses01F_script03_2_M003 [025.7100-029.8700]: It was bristling with diamonds.  In the worst possible taste
+Ses01F_script03_2_F003 [029.2200-034.5800]: It was not.  I still have it
+Ses01F_script03_2_M004 [034.2100-038.4400]: You went out of your way to torture me over Peter Burden.
+Ses01F_script03_2_F004 [037.5000-043.1500]: I did not.  You worked that whole thing up in your jealous imagination.
+Ses01F_script03_2_M005 [042.2500-047.1200]: Well
+Ses01F_script03_2_F005 [046.7500-048.7825]: Well
+Ses01F_script03_2_M006 [048.1600-049.9500]: What of it?
+Ses01F_script03_2_F006 [049.4100-053.4700]: It gave him a lot of pleasure and it didn't hurt me.
+Ses01F_script03_2_M007 [052.6700-055.2693]: What about me?
+Ses01F_script03_2_F007 [054.7489-061.4654]: If you hadn't been so suspicious and nosey
+Ses01F_script03_2_M008 [060.8262-064.8857]: That's a nice point of view
+Ses01F_script03_2_F008 [064.3325-067.5625]: Oh dear.  I'm bored with this conversation.
+Ses01F_script03_2_M009 [067.0600-074.0100]: So am I.  I'm bored stiff. [GARBAGE]  Do you want some brandy?
+Ses01F_script03_2_F009 [073.6900-076.1625]: No.  Thank you.
+Ses01F_script03_2_M010 [075.9600-078.6500]: I'll have a little
+Ses01F_script03_2_F010 [078.2197-081.8200]: I don't know why you'd want any
+Ses01F_script03_2_M011 [081.3800-084.9165]: No particular reason.  Anyhow
+Ses01F_script03_2_F011 [084.4600-088.9700]: I just think it's silly to go on and on and on about such a thing.
+Ses01F_script03_2_M012 [088.0800-094.2300]: You can hardly call three glasses of liquor a whole evening long
+Ses01F_script03_2_F012 [093.8500-096.9300]: It's become a habit with you.
+Ses01F_script03_2_M013 [095.9900-100.9500]: Oh.  Don't be so grand.  Just because you don't happen to want one at the moment.
+Ses01F_script03_2_F013 [100.2315-102.3100]: Don't be stupid.
+Ses01F_script03_2_M014 [101.9000-104.1500]: Really
+Ses01F_script03_2_F014 [103.2700-105.4500]: What?
+Ses01F_script03_2_M015 [105.2596-108.2337]: Nothing.
+Ses01F_script03_2_M016 [111.9800-115.3300]: you going out somewhere
+Ses01F_script03_2_F015 [114.8512-119.6000]: No.  I am just making myself fascinating for you.
+Ses01F_script03_2_M017 [119.7000-122.8900]: That reply has broken my heart.
+Ses01F_script03_2_F016 [121.9500-126.5400]: Oh.  It's a woman's duty to allure the man.
+Ses01F_script03_2_M018 [126.1529-129.1350]: Well as a matter of fact
+Ses01F_script03_2_F017 [128.7100-130.4800]: No it isn't.
+Ses01F_script03_2_M019 [130.0500-131.4200]: Yes it is.
+Ses01F_script03_2_F018 [130.9500-132.7900]: You shut up.
+Ses01F_script03_2_M020 [132.3100-137.4000]: Oh really.  It's a pity you didn't have any brandy
+Ses01F_script03_2_F019 [137.1300-141.1970]: It's funny it hasn't worked such wonders for you.
+Ses01F_script03_2_M021 [140.8379-144.0300]: Snap
+Ses01F_script03_2_F020 [143.6400-146.3800]: Adders don't snap
+Ses01F_script03_2_M022 [145.6700-152.9500]: Nonsense.  They have a bag of venom behind their fangs and they snap. They snap.
+Ses01F_script03_2_F021 [149.9800-158.4966]: They sting. I don't care.  Do you understand?  I don't care if they bark and they roll about like hoops.
+Ses01F_script03_2_M023 [157.8200-161.5400]: Did you see much of Peter Burden after our divorce?
+Ses01F_script03_2_F022 [160.7500-163.3800]: Yes I did
+Ses01F_script03_2_M024 [162.7700-175.5200]: And I suppose you let him kiss you a good deal more than
+Ses01F_script03_2_F023 [165.6900-167.9300]: Mind your own business.
+Ses01F_script03_2_F024 [175.1100-179.4600]: You're quite insufferable
+Ses01F_script03_2_M025 [178.7700-183.2600]: I think I am not in the least bit drunk.
+Ses01F_script03_2_F025 [182.0300-184.9100]: You've always had a weak head.
+Ses01F_script03_2_M026 [184.3500-193.4894]: I think I mentioned once before that I've had three minute liquor glasses the whole evening long.  A child of two cannot get drunk on that.
+Ses01F_script03_2_F026 [193.0300-198.8800]: On the contrary
+Ses01F_script03_2_M027 [197.9100-212.7500]: That's very interesting Amanda. How about a child of four?  Or a child of six?  Or a child of nine? We can get a good little conversation going on about this
+Ses01F_script03_2_F027 [201.3300-203.3069]: Oh shut up.
+Ses01F_script03_2_F028 [205.3300-207.8000]: Shut up.
+Ses01F_script03_2_F029 [212.4025-215.4525]: Not very funny
+Ses01F_script03_2_M028 [215.1200-221.1500]: [LAUGHTER] That's a very good idea.  I think I will.
+Ses01F_script03_2_M029 [224.5224-229.6000]: Look
+Ses01F_script03_2_F030 [227.0225-228.4100]: Why?
+Ses01F_script03_2_F031 [229.4275-233.0800]: There are no people upstairs; it's a photographer's studio.
+Ses01F_script03_2_M030 [233.4050-235.7308]: Well then you'll wake up the people downstairs.
+Ses01F_script03_2_F032 [235.2400-237.8068]: They are away in Tunis.
+Ses01F_script03_2_M031 [237.2400-241.4997]: This is no time of year for Tunis.
+Ses01F_script03_2_F033 [241.2519-244.1269]: Turn it on again
+Ses01F_script03_2_M032 [243.8542-246.8036]: I will do no such thing.
+Ses01F_script03_2_F034 [246.5557-251.6118]: Fine if you insist on being boorish and idiotic.
+Ses01F_script03_2_M033 [251.3391-257.0100]: Will you turn that off
+Ses01F_script03_2_F035 [256.4800-260.4175]: You are far too temperamental
+Ses01F_script03_2_M034 [260.4625-263.6400]: Turn it off.
+Ses01F_script03_2_F036 [262.8900-271.7200]: I won't.  Let go
+Ses01F_script03_2_M035 [264.8475-267.1900]: Amanda
+Ses01F_script03_2_M036 [269.3425-273.6100]: Oh.  That's very amusing indeed.
+Ses01F_script03_2_F037 [272.7300-283.0800]: Oh shut up.  Let go.  I hate you
+Ses01F_script03_2_M037 [277.5875-286.5600]: You are a vile
+Ses01F_script03_2_F038 [287.2950-292.7200]: This is the end.  Do you hear me?  Finally and forever.
+Ses01F_script03_2_M038 [293.2325-295.3000]: You're not going like this.
+Ses01F_script03_2_F039 [294.6300-296.6200]: Oh.  Yes I am.
+Ses01F_script03_2_M039 [295.9600-297.4550]: You're not.
+Ses01F_script03_2_F040 [297.0300-315.4600]: Yes I am.   Stop it. Stop it.  Let go of me. Oh.  You're a cruel fiend.  I loathe and I hate you. Marry you again?  Never
+Ses01F_script03_2_M040 [298.6500-314.6500]: Shut up. Shut up. God
+Ses01M_impro01_F000 [006.7700-008.4600]: Next.
+Ses01M_impro01_M000 [008.2208-011.2800]: Yes
+Ses01M_impro01_F001 [008.5500-010.6000]: My window is open.
+Ses01M_impro01_M001 [011.3200-013.7700]: Okay
+Ses01M_impro01_F002 [014.4600-018.2300]: This is... Your last- Your first name is Jones?
+Ses01M_impro01_M002 [013.7700-016.8800]: and I have This form of ID here so...
+Ses01M_impro01_M003 [017.6600-020.1400]: Yes
+Ses01M_impro01_F003 [019.4800-023.4300]: That's just strange I figured you filled in wrong sections.
+Ses01M_impro01_M004 [022.8900-024.2800]: Well...
+Ses01M_impro01_F004 [023.4300-026.4675]: What are you... what's...What are you applying for?
+Ses01M_impro01_M005 [025.9400-029.0700]: I'm just applying for another ID.
+Ses01M_impro01_F005 [028.4100-030.9600]: Another ID?
+Ses01M_impro01_M006 [029.3900-038.1500]: Yes.  I'm supposed to have three forms of ID for this.  It's a long story
+Ses01M_impro01_F006 [036.1500-038.6000]: Fine.  So I need ID.
+Ses01M_impro01_M007 [038.3300-040.2700]: I have it right here
+Ses01M_impro01_F007 [039.8900-043.3100]: No
+Ses01M_impro01_F008 [043.3100-047.0461]: It's really simple if you have a problem with it... Maybe you should--
+Ses01M_impro01_M008 [046.0100-047.1100]: But that's...
+Ses01M_impro01_M009 [047.1100-052.4200]: That's why I'm here
+Ses01M_impro01_F009 [052.3400-055.1200]: Well
+Ses01M_impro01_M010 [054.4900-056.7100]: No
+Ses01M_impro01_F010 [056.1600-058.1800]: You have a birth certificate?
+Ses01M_impro01_M011 [057.7900-062.2800]: I don't where it is though
+Ses01M_impro01_F011 [061.0500-063.2100]: What do you expect me to do?
+Ses01M_impro01_M012 [062.7800-066.0300]: I probably have to go wait another line to get my birth certificate don't I?
+Ses01M_impro01_F012 [065.5450-067.4700]: Probably.
+Ses01M_impro01_M013 [066.8475-070.0400]: You're very helpful.  What's your name?
+Ses01M_impro01_F013 [069.4500-070.8400]: Joy.
+Ses01M_impro01_M014 [070.5150-071.6950]: Hi
+Ses01M_impro01_F014 [071.3650-074.4600]: Hi.   You know...
+Ses01M_impro01_M015 [073.1425-075.0125]: So can you help me or not?
+Ses01M_impro01_F015 [074.6775-080.6875]: I am..I don't..I don't understand what you want.  A driver's license or a California ID.
+Ses01M_impro01_M016 [080.1900-082.3000]: Okay. [BREATHING]
+Ses01M_impro01_M017 [083.6300-086.3600]: I need California ID.
+Ses01M_impro01_F016 [086.3400-087.8700]: Okay.
+Ses01M_impro01_M018 [086.3800-092.0500]: On top of these other two forms of ID which I already have.
+Ses01M_impro01_F017 [091.2800-094.5350]: What... well
+Ses01M_impro01_M019 [093.8800-096.7900]: No
+Ses01M_impro01_F018 [095.2400-098.2100]: Then how am I supposed to give you a California ID?
+Ses01M_impro01_M020 [096.9100-100.5300]: Did you even look at the form?  I filled it out all these questions--
+Ses01M_impro01_F019 [098.4600-102.0700]: Don't raise your voice with me.
+Ses01M_impro01_M021 [102.1700-107.5000]: Did you even look at the form?  I've already answered these question.
+Ses01M_impro01_F020 [105.7600-109.0900]: Don't talk to me like I'm a child.
+Ses01M_impro01_M022 [109.1400-110.5100]: Okay.
+Ses01M_impro01_F021 [109.1900-114.1025]: Do you know how long I've been working here? How long have you lived in California?
+Ses01M_impro01_M023 [110.6900-113.2200]: If it makes you stop acting like a child.
+Ses01M_impro01_M024 [113.5575-116.1800]: I have been to California my whole--
+Ses01M_impro01_F022 [114.1300-124.8200]: Maybe you never been to the D.M.V. before
+Ses01M_impro01_M025 [118.8350-122.1800]: I am not...I'm not getting to back that line.
+Ses01M_impro01_M026 [123.9900-130.7200]: Okay
+Ses01M_impro01_F023 [129.1200-131.0325]: I'm perfectly calm.
+Ses01M_impro01_M027 [130.7200-134.1850]: I did not come in here to get in a yelling match with you
+Ses01M_impro01_F024 [132.8900-136.6025]: Uh huh.  I didn't come here get in yelling match either.
+Ses01M_impro01_M028 [136.1100-138.5100]: Just try and help me.
+Ses01M_impro01_F025 [137.0600-140.4900]: They don't pay me enough to deal people like you.
+Ses01M_impro01_M029 [139.9600-147.9500]: People like me
+Ses01M_impro01_F026 [146.6075-148.2600]: Why?
+Ses01M_impro01_M030 [148.0000-149.1200]: Why?
+Ses01M_impro01_F027 [148.5800-149.6700]: Yeah.
+Ses01M_impro01_F028 [156.1500-160.5100]: So you're not going to send me a thank you card
+Ses01M_impro01_M031 [149.1800-151.8500]: Why
+Ses01M_impro01_M032 [151.8500-157.3600]: 'Cause you're obviously not talking to me
+Ses01M_impro01_F029 [160.7000-164.8250]: Oh
+Ses01M_impro01_M033 [158.6300-163.6625]: Oh
+Ses01M_impro01_F030 [164.8725-167.2100]: Sit back down.
+Ses01M_impro02_M000 [004.5582-007.8600]: Hey
+Ses01M_impro02_F000 [008.0737-011.4700]: What's happening?
+Ses01M_impro02_M001 [013.7600-017.5200]: I have to go back.
+Ses01M_impro02_M002 [019.3300-023.6300]: I just got a letter I have to go back.
+Ses01M_impro02_F001 [024.1500-026.9800]: When?
+Ses01M_impro02_M003 [027.1100-029.8250]: First thing tomorrow morning.
+Ses01M_impro02_F002 [029.3500-032.4600]: Are you kidding me?
+Ses01M_impro02_F003 [035.4000-038.6000]: How...
+Ses01M_impro02_M004 [038.6100-041.3300]: I don't understand
+Ses01M_impro02_F004 [040.1000-042.3725]: How can they do that?
+Ses01M_impro02_M005 [042.4225-044.3500]: They can do it.
+Ses01M_impro02_F005 [042.4950-045.8200]: They said you're home for at least four years.
+Ses01M_impro02_M006 [047.1900-049.6300]: I guess they can do it
+Ses01M_impro02_M007 [049.6600-058.1800]: The National Guard is I guess really spread thin and then everyone has to go.  We all have to go back
+Ses01M_impro02_F006 [053.4950-054.9950]: [BREATHING]
+Ses01M_impro02_F007 [058.9800-062.1100]: That's not fair.
+Ses01M_impro02_M008 [066.1600-070.1800]: I can't believe it. I just got back.
+Ses01M_impro02_M009 [075.7300-078.6525]: So yeah
+Ses01M_impro02_F008 [078.4800-079.7450]: [BREATHING]
+Ses01M_impro02_M010 [079.1800-081.8600]: ...we're all shipping out.
+Ses01M_impro02_M011 [082.0900-086.2800]: I just got I feel like I'm in shock actually.
+Ses01M_impro02_F009 [085.8400-089.1400]: I don't even know what to tell you.
+Ses01M_impro02_M012 [088.8250-090.6550]: I don't know.
+Ses01M_impro02_F010 [090.3900-093.6500]: What about the birthday party?
+Ses01M_impro02_M013 [095.4500-099.8750]: I guess you're just going to have to have it without me.
+Ses01M_impro02_M014 [106.1000-114.4400]: Hey listen
+Ses01M_impro02_M015 [115.0275-117.3100]: You're going to be fine.
+Ses01M_impro02_F011 [116.8900-122.5200]: Me?  I'm not worried about me.
+Ses01M_impro02_M016 [122.0300-126.4200]: I'm going to be fine too
+Ses01M_impro02_F012 [128.8300-131.1175]: How do you know?
+Ses01M_impro02_M017 [131.0600-137.7400]: I know I have a good... I have a really good group of guys with me.
+Ses01M_impro02_M018 [137.7500-140.9400]: We're going to be okay.
+Ses01M_impro02_F013 [144.5400-148.6000]: You're going with the same ones?
+Ses01M_impro02_M019 [149.0600-152.5800]: Do promise me you're going to take a lot of pictures.
+Ses01M_impro02_F014 [152.3100-154.9183]: Always
+Ses01M_impro02_M020 [154.4300-156.5100]: I know.
+Ses01M_impro02_F015 [157.4200-160.1100]: It's not the same though.
+Ses01M_impro02_M021 [163.8000-167.5600]: I just wish there was something I could do.
+Ses01M_impro02_F016 [167.9100-170.7700]: We could hide away.
+Ses01M_impro02_M022 [170.9400-173.0100]: Run away?
+Ses01M_impro02_F017 [172.4100-177.3500]: Mm hmm.  We'll build a bunker and never come out.
+Ses01M_impro02_M023 [183.7700-189.0800]: I really don't want to go
+Ses01M_impro02_F018 [185.5400-190.3600]: [LAUGHTER] Mmm.
+Ses01M_impro02_M024 [198.5500-201.2800]: I'm scared.
+Ses01M_impro02_F019 [201.7575-204.0500]: Don't say that.
+Ses01M_impro02_F020 [209.9500-214.8100]: I'll send you a letter every single day.
+Ses01M_impro02_M025 [214.5900-217.0400]: I love you.
+Ses01M_impro02_F021 [216.9250-219.1300]: I love you too.
+Ses01M_impro03_M000 [002.9200-005.5600]: The craziest thing just happened to me.
+Ses01M_impro03_F000 [005.0200-006.8500]: What?
+Ses01M_impro03_M001 [006.3100-011.5700]: This girl; she just offered me fifty thousand dollars to marry her.
+Ses01M_impro03_F001 [010.7900-012.0800]: [BREATHING]
+Ses01M_impro03_M002 [011.7000-012.9800]: Yeah.
+Ses01M_impro03_F002 [012.3700-013.7468]: Why?
+Ses01M_impro03_M003 [013.2600-016.8700]: Well
+Ses01M_impro03_F003 [016.1900-017.7425]: Is she on the run?
+Ses01M_impro03_M004 [017.2800-026.5400]: No
+Ses01M_impro03_F004 [019.6000-022.1975]: Oh
+Ses01M_impro03_F005 [026.0000-033.2100]: That's incredible. That's awesome. Where's she from?  Maybe you can get a dual citizenship.
+Ses01M_impro03_M005 [026.6000-030.7900]: That's like twenty five thousand dollar a year for doing nothing. Isn't that awesome?
+Ses01M_impro03_M006 [032.0500-039.5125]: She's actually from England
+Ses01M_impro03_F006 [035.5000-039.2350]: That's so cool. Uh huh.
+Ses01M_impro03_F007 [039.4500-043.7800]: [LAUGHTER] Why did she pick you? Where were you?
+Ses01M_impro03_M007 [039.5775-047.6600]: Fifty thousand dollars. Fifty thousand dollars. I was just out... I just... she's - well
+Ses01M_impro03_F008 [047.3200-054.5200]: You were at a party? And she's like hey. You seem unattached she's like.
+Ses01M_impro03_M008 [048.0800-063.1475]: Yeah.  Can you believe that? Yeah
+Ses01M_impro03_F009 [055.9325-059.7100]: That's unbelievable... Yeah.
+Ses01M_impro03_F010 [061.1325-072.1900]: Well I've known people who have done this before. Yeah.  You just- it's really fun actually 'cause you have like a fake engagement party and all your friends come over and like...
+Ses01M_impro03_M009 [063.6350-064.9500]: Have you?
+Ses01M_impro03_M010 [070.9500-073.6300]: It's like I'm really going to get married. We'll have like the whole thing.
+Ses01M_impro03_M011 [073.6700-075.9600]: Oh
+Ses01M_impro03_F011 [072.4875-080.9000]: Yeah. Yeah. And then yeah
+Ses01M_impro03_M012 [080.7600-082.4800]: I know. What do you think I should-
+Ses01M_impro03_F012 [080.9300-088.4500]: Like make her rent the apartment that you two have to live together in
+Ses01M_impro03_M013 [084.5075-086.6600]: Oh good idea.
+Ses01M_impro03_M014 [087.4200-090.9600]: Yeah.  Make her like open the bank account and stuff too.
+Ses01M_impro03_F013 [090.1100-091.8400]: Yeah.
+Ses01M_impro03_M015 [091.3700-093.4700]: It's a good idea.
+Ses01M_impro03_F014 [092.8700-096.1300]: Dude
+Ses01M_impro03_M016 [094.7700-098.7000]: I know.  Also I get to like plan the wedding now too. That will be fun.
+Ses01M_impro03_F015 [097.3500-103.9875]: Yeah.  My colors are blush and beige what is it
+Ses01M_impro03_M017 [103.1000-114.4300]: Something blue
+Ses01M_impro03_F016 [104.6375-109.0600]: Oh I don't know. [LAUGHTER]
+Ses01M_impro03_F017 [113.7900-116.7000]: I don't know get it in cash.
+Ses01M_impro03_M018 [115.8400-117.8900]: Just cash hardcore.
+Ses01M_impro03_F018 [117.2100-118.4700]: Yeah.
+Ses01M_impro03_M019 [117.9800-121.7600]: What should we do?  Where should we get married? We should have party.
+Ses01M_impro03_F019 [120.0300-123.6400]: How exciting. You should have a wedding on the beach.
+Ses01M_impro03_M020 [121.8300-125.1400]: Yeah
+Ses01M_impro03_F020 [123.9600-125.7400]: Yeah
+Ses01M_impro03_M021 [125.3200-134.0075]: And then we can honeymoon.  I want to go tropical though like Bahamas- --or like Tahiti or something. I just want to like beach and like drink.
+Ses01M_impro03_F021 [128.0600-131.5900]: Oh yeah
+Ses01M_impro03_F022 [132.1600-136.1500]: How exciting.  You should make her bring all your friends too.
+Ses01M_impro03_M022 [135.6600-145.4400]: I'll make her pay for that.  I hear she's like totally wealthy. She's like royalty- --or something like and- --whatever like removed or something but yeah.
+Ses01M_impro03_F023 [136.2900-144.0700]: [GARBAGE] She's got to be loaded.  fifty thousand dollars.  That's incredible.
+Ses01M_impro03_F024 [144.6100-146.4100]: Incredible.
+Ses01M_impro03_M023 [145.9700-150.5100]: I'm going to marry a blue blood. [LAUGHTER]
+Ses01M_impro03_F025 [147.1700-150.8450]: you're a lucky
+Ses01M_impro03_M024 [150.5800-152.0400]: Will you help me plan?
+Ses01M_impro03_F026 [151.2600-153.9075]: Oh
+Ses01M_impro03_M025 [152.1000-153.2500]: Good.
+Ses01M_impro04_F000 [009.0256-011.6950]: You seem kind of down.
+Ses01M_impro04_M000 [011.5885-013.5675]: I'm just mad.
+Ses01M_impro04_F001 [013.3720-015.2250]: How come?
+Ses01M_impro04_M001 [015.0500-019.2300]: It's--I've been trying to find this job I can't get any job.
+Ses01M_impro04_M002 [019.3600-021.4936]: It's not fair.
+Ses01M_impro04_F002 [021.3952-023.2492]: What do you mean?
+Ses01M_impro04_M003 [023.0031-031.9779]: I mean I've been looking for a job for like three years and I can't get a job.  I mean like
+Ses01M_impro04_F003 [031.2560-034.4725]: There's a lot of people looking for jobs.
+Ses01M_impro04_M004 [034.1437-046.8400]: I guess.  But three years?  I mean
+Ses01M_impro04_F004 [047.7500-050.5000]: I don't know
+Ses01M_impro04_M005 [049.9100-063.6600]: I mean I've been sending out my resumes and doing everything I can do but nothing is happening.  You know
+Ses01M_impro04_F005 [063.3300-066.6300]: Did you ever think it might be your attitude that's...
+Ses01M_impro04_M006 [065.4900-067.9200]: What's my--like what do you mean "my attitude"?
+Ses01M_impro04_F006 [067.4500-074.0400]: I don't know just sometimes you get kind of... No
+Ses01M_impro04_M007 [069.7900-071.7800]: Do I have an attitude problem?
+Ses01M_impro04_M008 [076.3900-080.5300]: No
+Ses01M_impro04_F007 [074.2100-077.5300]: ...has anyone ever just said anything like that to you before?
+Ses01M_impro04_M009 [080.5500-086.0900]: Like it's really hard to like shake that off when you go into like audition a room or whatever
+Ses01M_impro04_F008 [084.9900-087.2706]: Right
+Ses01M_impro04_F009 [087.2900-091.6300]: But I mean you kind of got to
+Ses01M_impro04_M010 [091.0600-095.7650]: I guess I just getting really hard to fake
+Ses01M_impro04_F010 [095.1900-103.2350]: I'm just saying that if I was looking to hire somebody in the--or kind of... No. No. No.
+Ses01M_impro04_M011 [099.1900-106.6900]: Are you hiring? Wait
+Ses01M_impro04_F011 [104.7300-116.8850]: No.  I'm just saying though that if I was a person who was hiring somebody I-- --would not hire someone who was angry or upset.
+Ses01M_impro04_M012 [110.4300-112.2100]: Yeah.
+Ses01M_impro04_M013 [116.3900-118.5800]: I come across angry?
+Ses01M_impro04_F012 [118.0000-119.7900]: No.
+Ses01M_impro04_M014 [119.3100-120.5900]: What?
+Ses01M_impro04_F013 [120.2200-125.2400]: Well
+Ses01M_impro04_M015 [124.0000-129.7100]: Okay.  You're my friend you can tell me stuff.  You can tell me honestly stuff
+Ses01M_impro04_F014 [128.7900-131.7400]: I just don't want you to fly off the handle.
+Ses01M_impro04_M016 [131.2094-136.8600]: Okay
+Ses01M_impro04_F015 [135.9400-138.2200]: You kind of have a short fuse.
+Ses01M_impro04_M017 [137.3500-139.0600]: I have a short fuse?
+Ses01M_impro04_F016 [138.5000-139.9900]: Yeah.
+Ses01M_impro04_M018 [139.4600-147.2000]: Okay. Okay no
+Ses01M_impro04_F017 [141.0600-145.0400]: Like this
+Ses01M_impro04_F018 [145.2100-153.0500]: We're trying to have a conversation and you seem extremely hostile. You keep cutting me off.
+Ses01M_impro04_M019 [148.3800-151.8400]: Well
+M: [BREATHING]
+Ses01M_impro04_M020 [159.7700-161.8600]: I'm not always right I'm just--
+Ses01M_impro04_F019 [153.7500-157.7950]: I can't finish the sentence with you without you jumping in...
+Ses01M_impro04_F020 [157.9700-160.3500]: ...and you're always right.
+Ses01M_impro04_M021 [161.9500-163.6100]: fine okay.
+Ses01M_impro04_F021 [162.1700-164.9900]: You have an excuse for everything.
+Ses01M_impro04_M022 [164.7400-166.5275]: [BREATHING]
+Ses01M_impro04_F022 [166.2900-172.9400]: I'm just saying that maybe you should take in some information before you produce more of your own.
+Ses01M_impro04_M023 [172.3400-178.6430]: I'm like a sponge I'm like soaked up with all this information for like three years I'm just dying for a job to like put it in to.
+Ses01M_impro04_F023 [178.1672-181.0057]: [BREATHING]
+Ses01M_impro04_F024 [182.2975-183.8600]: That's -.
+Ses01M_impro04_M024 [182.8800-186.4450]: You know
+Ses01M_impro04_F025 [186.3825-189.6225]: Well
+Ses01M_impro04_M025 [189.3000-190.8275]: That's it.
+Ses01M_impro05_F000 [002.2687-004.3200]: Can I help you?
+Ses01M_impro05_M000 [003.7100-007.8200]: Yes
+Ses01M_impro05_F001 [007.2300-009.8800]: I need a little more information.
+Ses01M_impro05_M001 [008.0600-012.3400]: Where is my bag?  Come on
+Ses01M_impro05_F002 [010.1725-013.7000]: What- What flight did you come in on?
+Ses01M_impro05_M002 [012.5300-015.6575]: Okay
+Ses01M_impro05_F003 [015.1250-016.4150]: Georgia?
+Ses01M_impro05_M003 [015.8600-021.1500]: Yes
+Ses01M_impro05_F004 [017.9700-022.0300]: There's no need for you to raise your voice
+Ses01M_impro05_F005 [022.2000-025.0600]: I've been college educated.
+Ses01M_impro05_F006 [025.1125-027.8600]: I speak your language.
+Ses01M_impro05_M004 [026.1923-031.0800]: Are you insinuating that I don't have a college education and that- for some reason that makes you a better person than I am?
+Ses01M_impro05_M005 [031.7800-034.8300]: Listen
+Ses01M_impro05_F007 [030.5125-033.3100]: I'm just saying you don't need to talk to me like I-
+Ses01M_impro05_M006 [034.8500-037.6700]: I've been sitting here for four hours.
+Ses01M_impro05_F008 [034.4200-036.4100]: I'm not a child.
+Ses01M_impro05_F009 [037.4000-039.9900]: I've been here for sixteen.
+Ses01M_impro05_M007 [037.7150-041.4700]: You people have just been tossing me around like a used hanky.
+Ses01M_impro05_F010 [040.8450-043.1575]: I come here every single day.
+Ses01M_impro05_M008 [042.8350-046.0200]: You work here.
+Ses01M_impro05_F011 [045.6700-049.9200]: Details
+Ses01M_impro05_F012 [049.9200-052.3100]: so you flew in from Atlanta...
+Ses01M_impro05_M009 [051.7500-054.5300]: My bag from Atlanta.
+Ses01M_impro05_F013 [053.7075-056.2400]: Four...Four hours ago.
+Ses01M_impro05_M010 [054.5600-058.7900]: It's a little black bag with wheels.
+Ses01M_impro05_F014 [058.5000-060.2300]: Do you have any i-?
+Ses01M_impro05_M011 [058.8200-063.4075]: That you wouldn't let me put in the overhead compartment.  You said I had to check it.
+Ses01M_impro05_F015 [061.4800-067.4800]: I wouldn't let you?   I was not in Atlanta. I was not in Atlanta.
+Ses01M_impro05_M012 [063.8375-066.2200]: It's a tiny little bag.
+Ses01M_impro05_F016 [067.5100-073.2500]: I had nothing to do with the boarding attendance.  I'm sorry that your seat was wherever it was.
+Ses01M_impro05_M013 [072.7600-084.0500]: It was right in the middle of five different people.  I had a huge fat lady next me
+Ses01M_impro05_F017 [091.4100-100.2400]: I have some unfortunate news
+Ses01M_impro05_F018 [100.2400-102.8600]: --arriving any time soon.
+Ses01M_impro05_M014 [084.2900-091.7500]: Just had a really
+Ses01M_impro05_F019 [102.9200-106.1700]: I'm really sorry to tell you this but...
+Ses01M_impro05_M015 [105.3900-107.4600]: Okay.
+Ses01M_impro05_F020 [107.9300-114.1900]: It's not.  I can offer you fifty dollars and a reimbursement gift cards for our airline...
+Ses01M_impro05_F021 [114.1900-115.4700]: ...and your future...
+Ses01M_impro05_M016 [113.6800-117.4900]: I'm sorry
+Ses01M_impro05_F022 [117.2200-118.7000]: No.
+Ses01M_impro05_M017 [118.2400-120.0700]: It's gone.
+Ses01M_impro05_F023 [119.6225-121.2300]: Yes.
+Ses01M_impro05_M018 [121.4300-125.6100]: Where is it?  Where did it go?
+Ses01M_impro05_F024 [125.2000-127.1300]: We've actually...
+Ses01M_impro05_M019 [125.7100-129.6000]: You mean did someone steal it? Do people steal bags?
+Ses01M_impro05_F025 [129.2400-133.8300]: They do as matter of fact.  We don't like to publicize it because
+Ses01M_impro05_F026 [133.8300-136.8700]: people wouldn't Fly our airline.
+Ses01M_impro05_M020 [134.9988-137.5000]: Probably people that work for your company huh?
+Ses01M_impro05_M021 [137.5000-143.3500]: Do you know what was in that little bag that I could have just easily put in overhead compartment but no I had to check?
+Ses01M_impro05_F027 [142.6500-144.1200]: What was that?
+Ses01M_impro05_M022 [143.5200-149.3500]: My computer which has all of my data which I'm collecting right now.
+Ses01M_impro05_F028 [148.7200-150.7600]: That's unfortunate.
+Ses01M_impro05_M023 [149.8800-156.3900]: Yeah it's really unfortunate you know why because I'm going to get fired if I don't get that.  So I need to have that back.
+Ses01M_impro05_F029 [155.5700-157.2900]: That's too bad.
+Ses01M_impro05_M024 [156.4600-159.9600]: Fifty dollars is not going to cover me for my job
+Ses01M_impro05_F030 [158.8700-160.9300]: I wish I could give it to you.
+Ses01M_impro05_M025 [160.0200-167.0100]: Well you need to find it. Can I just go back there and look through the bags?  Can I just go back there and just go through maybe I'll find it.
+Ses01M_impro05_F031 [161.3400-162.5900]: I wish I-
+Ses01M_impro05_F032 [163.6900-166.1000]: That's not - no.
+Ses01M_impro05_F033 [166.3700-167.6000]: No.
+Ses01M_impro05_M026 [167.0100-173.7300]: It'll be a lot more than what you're doing sitting here and just give me lip service.  I'd like to go back at least do some aggressive searching for my stuff.
+Ses01M_impro05_F034 [173.0900-178.4600]: We have plenty of aggressive searching going on it's not there.  Someone's taken it.
+Ses01M_impro05_M027 [175.2775-181.4600]: Sure
+Ses01M_impro05_M028 [181.4950-186.8200]: I know what you guys do when you're not working you're union people; you just sit around on your ass.
+Ses01M_impro05_F035 [186.3300-190.0200]: You know I don't need to take this sort of abuse.
+Ses01M_impro05_M029 [189.4200-198.3400]: Well
+Ses01M_impro05_F036 [192.9100-194.7500]: That's fantastic.
+Ses01M_impro05_F037 [194.9425-201.7500]: Then why don't you take your fifty dollars. Get yourself a taxi and go shopping tomorrow.
+Ses01M_impro05_M030 [199.2700-200.3975]: [BREATHING]
+Ses01M_impro05_M031 [201.2825-203.7100]: Thank you very much.
+Ses01M_impro06_F000 [010.0955-012.6800]: You okay?
+Ses01M_impro06_M000 [012.4633-016.5100]: Yeah
+Ses01M_impro06_M001 [019.1808-022.8900]: Just kind of feel numb
+Ses01M_impro06_F001 [023.2600-026.3875]: What's happened?
+Ses01M_impro06_M002 [025.7888-030.0906]: You didn't even hear?
+Ses01M_impro06_M003 [031.7600-035.3600]: [BREATHING] Umm.
+Ses01M_impro06_M004 [036.1100-040.0000]: God I've told this story so many times. Umm.
+Ses01M_impro06_F002 [039.4300-041.7500]: You don't have to if you don't want to.
+Ses01M_impro06_M005 [041.2200-044.6825]: I just...I just basically lost someone that was really close to me.
+Ses01M_impro06_M006 [046.4100-061.9900]: And I've kind of been dealing with all of the...the stuff
+Ses01M_impro06_F003 [061.8600-064.6500]: I'm sorry to hear that.
+Ses01M_impro06_M007 [063.6300-067.6300]: He kind of didn't have anyone to take care of that for him
+Ses01M_impro06_F004 [067.2770-070.1200]: You've been taking care of it all?
+M: Yeah.
+Ses01M_impro06_F005 [070.2050-072.2704]: Oh Jesus.
+Ses01M_impro06_M008 [071.7900-076.0581]: It's just really...really messed up.
+Ses01M_impro06_F006 [076.5016-079.0300]: He sick for awhile?
+Ses01M_impro06_M009 [079.2956-082.6661]: No.
+Ses01M_impro06_M010 [083.7526-087.2340]: Just like it.
+Ses01M_impro06_F007 [087.2562-089.4700]: Was it an accident?
+Ses01M_impro06_M011 [089.2950-095.8900]: No
+Ses01M_impro06_F008 [094.6200-096.5200]: how was sick?
+Ses01M_impro06_M012 [096.5029-097.9600]: What?
+Ses01M_impro06_F009 [097.4500-101.4200]: Well
+Ses01M_impro06_M013 [100.6075-105.7400]: He was sick. He got sick. He got sick but it happened really
+Ses01M_impro06_F010 [101.5000-105.8675]: Oh. Really fast? Oh.
+Ses01M_impro06_M014 [105.8400-109.1600]: It was kind of like boom... done
+Ses01M_impro06_F011 [107.0200-108.5600]: Yeah.
+Ses01M_impro06_M015 [109.5900-114.6100]: It's just really weird because he was really young you know and it kind of like...
+Ses01M_impro06_F012 [112.6150-113.9775]: Yeah.
+Ses01M_impro06_M016 [115.9875-118.2500]: --it just kind of freaks you out.
+Ses01M_impro06_F013 [117.8500-120.8000]: Totally
+Ses01M_impro06_M017 [123.1500-146.8900]: So weird you know that like one days it's like you know sounds so stupid but like one day someone's here. And like next day you know they're not here and it just kind of makes you like think about like life and mortality and like that kind of stuff.  You just like used to take for granted--you know.
+Ses01M_impro06_F014 [131.1825-132.5550]: Mmhmm.
+Ses01M_impro06_F015 [143.9425-145.1600]: Lock
+Ses01M_impro06_F016 [145.9400-147.7800]: Mmhmm.
+Ses01M_impro06_F017 [148.2650-150.7100]: The plans you make [GARBAGE].
+Ses01M_impro06_M018 [150.0500-153.9300]: Exactly
+Ses01M_impro06_F018 [157.2300-159.5700]: It leaves a hole for you too.
+F: Mmhmm.
+Ses01M_impro06_M019 [154.5500-157.4000]: so many things
+Ses01M_impro06_F019 [159.7500-163.9425]: It leaves a hole for you too
+Ses01M_impro06_M020 [159.3500-160.7400]: What?
+Ses01M_impro06_M021 [163.7300-165.8600]: Yeah.
+Ses01M_impro06_F020 [178.3706-181.4300]: It gets better.
+Ses01M_impro06_M022 [181.8077-184.8600]: He was a really
+Ses01M_impro06_F021 [184.2600-186.2647]: Mmhmm.
+Ses01M_impro06_M023 [186.5973-189.5500]: A lot of people loved him.
+Ses01M_impro06_F022 [188.9700-190.9200]: MMhmm.
+Ses01M_impro06_M024 [193.1300-197.5100]: You know
+Ses01M_impro06_F023 [197.0600-199.0500]: Mmhmm.
+Ses01M_impro06_F024 [200.3676-203.1600]: How long did you know each other?
+Ses01M_impro06_M025 [202.5100-203.8500]: Umm...
+Ses01M_impro06_M026 [205.6500-208.5721]: For like eight years.
+Ses01M_impro06_F025 [208.8826-210.7397]: That's a long time.
+Ses01M_impro06_M027 [210.2100-212.2200]: Yeah.
+Ses01M_impro06_F026 [214.6701-217.6415]: It's good that you were there.
+Ses01M_impro06_M028 [217.5175-221.8768]: Yeah
+Ses01M_impro06_M029 [225.3200-227.5100]: So weird
+Ses01M_impro06_F027 [233.0200-235.1300]: Yeah.
+Ses01M_impro06_M030 [227.5400-234.2600]: like I can't...it's like you know it's like "pinch me" it's like I can't believe like I'm dealing with this
+Ses01M_impro06_F028 [239.1062-242.6985]: Are there things you wish you'd done differently?
+Ses01M_impro07_M000 [002.6812-007.9800]: Check this out.  You know how I've told you I've been really into like softball recently?
+Ses01M_impro07_F000 [007.6300-008.5700]: Yeah.
+Ses01M_impro07_M001 [008.2200-014.7500]: Well
+Ses01M_impro07_F001 [013.9500-021.1200]: [LAUGHTER]. For softball? That's unbelievable. Is it slow pitch?
+Ses01M_impro07_M002 [015.5400-020.6700]: For softball.  They're going to pay me to go to school. Isn't that awesome?
+Ses01M_impro07_M003 [020.9200-034.3800]: Yeah.  Well
+Ses01M_impro07_F002 [023.8800-025.2500]: Uh huh.
+Ses01M_impro07_F003 [027.0600-029.8100]: Pinch hitting softball.
+Ses01M_impro07_F004 [030.3100-033.0800]: That is incredible.
+Ses01M_impro07_F005 [033.7200-037.2700]: That's amazing. They pay for everything?
+Ses01M_impro07_M004 [034.7600-038.6600]: I know. For softball
+Ses01M_impro07_F006 [037.8800-042.5825]: Your housing
+Ses01M_impro07_M005 [038.7800-048.2800]: Yeah
+Ses01M_impro07_F007 [045.1450-049.2825]: That is incredible. Do you get like a per diem?
+Ses01M_impro07_M006 [048.7300-052.8600]: I don't know. I should ask. Yeah
+Ses01M_impro07_F008 [049.6400-052.1000]: You should...You should look into that.
+Ses01M_impro07_F009 [052.4600-057.4562]: That is amazing
+Ses01M_impro07_M007 [054.6300-056.3100]: Thank you.
+Ses01M_impro07_M008 [056.5300-061.3500]: But I don't know I want to live in the housing that they give me though 'cause I think I want to you know like get like a nicer place.
+Ses01M_impro07_F010 [058.7800-060.2100]: Oh.
+Ses01M_impro07_F011 [060.8100-066.7700]: Yeah
+Ses01M_impro07_M009 [061.5900-063.5600]: Where should I move?
+Ses01M_impro07_M010 [066.3983-078.9000]: That's a really good idea. Or I could go to like Santa Monica. Go beach. Venice beach
+Ses01M_impro07_F012 [068.6400-072.3500]: Oh. Venice beach.
+F: Mmhmm.
+Ses01M_impro07_F013 [072.8400-076.2300]: Oh
+Ses01M_impro07_F014 [076.5900-087.8575]: Okay. That would be way too much of a commute you can't do that. Especially- I know especially from--I don't know
+Ses01M_impro07_M011 [080.6825-083.8200]: Professional softball player Malibu. [LAUGHTER]
+Ses01M_impro07_M012 [087.4300-090.4400]: From where? Huh? Well I'm from San Francisco.
+Ses01M_impro07_F015 [088.4125-092.4100]: I don't know. Commuting from what Malibu that would be ridiculous.
+Ses01M_impro07_M013 [090.9200-102.6100]: Oh yeah
+Ses01M_impro07_F016 [095.2600-101.5000]: Oh yeah. He'd drop you right off at practice?
+Ses01M_impro07_F017 [101.6200-109.0200]: Do you--are you one of those like four a clock in the morning practices?  Is it--that's more like swimming and- --ballet and things like that.
+Ses01M_impro07_M014 [106.5475-112.3500]: Yeah. I think it's in the afternoon 'cause I mean can't be too early 'cause then you can't see the ball.
+Ses01M_impro07_F018 [111.5900-116.3400]: They have those neon--softballs.  They're like day-glow you can see them anywhere.
+Ses01M_impro07_M015 [115.6100-125.3625]: Yeah
+Ses01M_impro07_F019 [116.5000-119.0250]: I'm surprised you don't know that.
+Ses01M_impro07_F020 [121.1500-125.2500]: Oh. That is incredible. Is it--
+Ses01M_impro07_F021 [125.3100-132.5725]: do they have a--is it a co-ed softball team?  I mean... Really? You know
+Ses01M_impro07_M016 [127.5200-131.3900]: No it's all boys. All boys' softball team.
+Ses01M_impro07_M017 [131.9500-134.6200]: They do it's--believe me it's huge.
+Ses01M_impro07_F022 [132.8600-138.1200]: Who do you play? Like do--are you like... nationally ranked?
+Ses01M_impro07_M018 [135.3050-141.0100]: I just got into it. I just kind of fell into it. Literally I was walking around and...
+Ses01M_impro07_F023 [139.0700-141.8000]: That is unbelievable.
+Ses01M_impro07_M019 [141.3400-142.6800]: It's pretty wild.
+Ses01M_impro07_F024 [141.9900-144.4850]: I would put that right up there with--ping-pong.
+Ses01M_impro07_M020 [143.9800-147.8400]: Yeah
+Ses01M_impro07_F025 [144.6600-148.2650]: I mean not to denigrate what you are doing.  I think that's great.
+Ses01M_impro07_M021 [147.9100-150.1225]: Oh you mean it's not really sport that what you're saying?
+Ses01M_impro07_F026 [149.7100-154.9200]: No
+Ses01M_impro07_M022 [150.7925-153.8000]: It's totally a sport. What are you talking about?
+Ses01M_impro07_M023 [153.8600-159.1400]: What
+Ses01M_impro07_F027 [156.1800-167.8000]: I am not saying you should be. I'm not no. I think it's great I think you should be incredibly proud yourself especially because you're going to U.S.C for free for doing it. For free.
+Ses01M_impro07_M024 [165.1825-169.6425]: For free that's really what it's about. I mean who cares I mean if I have to play softball all the time?
+Ses01M_impro07_M025 [169.7275-172.3400]: But they got to like drive around in a bus--that would suck.
+Ses01M_impro07_F028 [171.7300-174.2000]: Oh really? With the whole team?
+Ses01M_impro07_M026 [172.4600-175.3625]: Yeah we have like away games and stuff.
+Ses01M_impro07_F029 [174.9300-180.9100]: What are your teammates like? I'm sure you don't know yet? What kind of people play softball?
+Ses01M_impro07_M027 [177.2600-178.7500]: They're nice.
+Ses01M_impro07_M028 [179.9400-185.3475]: Like
+Ses01M_impro07_F030 [183.0200-184.7200]: Oh really?
+Ses01M_impro07_F031 [185.4225-188.8425]: Cool. You don't seem like you'd fit in there.
+Ses01M_impro07_M029 [185.7800-191.5200]: That kind of...They're okay.  No I'm like- I'm kind of like the odd man out I'm like...
+Ses01M_impro07_F032 [191.0500-192.2475]: Oh
+Ses01M_impro07_M030 [192.2200-194.2500]: But you know I'm like [GARBAGE].
+Ses01M_impro07_F033 [192.7000-195.0500]: You're like the rookie? The new kid.
+Ses01M_impro07_M031 [194.7700-196.0200]: Yeah.
+Ses01M_impro07_F034 [195.1700-205.4775]: Just watch in five years you'll be like on the force. You carry around donuts in your back pocket... [LAUGHTER]
+Ses01M_impro07_M032 [196.3800-199.8600]: I'm going to have a mustache...On the force...
+Ses01M_impro07_M033 [204.8100-206.6000]: Pull over..
+Ses01M_script01_1_F000 [008.0600-011.5914]: What he's going to say?
+Ses01M_script01_1_M000 [011.4962-014.8175]: He saw it.
+Ses01M_script01_1_F001 [014.4000-016.6181]: When?
+Ses01M_script01_1_M001 [016.2300-019.5441]: He was out here at four this morning.
+Ses01M_script01_1_F002 [019.2815-023.9200]: How could he see it?  I was the first one up and he was still in bed.
+Ses01M_script01_1_M002 [023.6500-029.7850]: I was out here at four this morning I heard a crack and I looked out the window and he was standing right over there.
+Ses01M_script01_1_F003 [029.3349-033.2000]: What was he doing here at four in the morning?
+Ses01M_script01_1_M003 [032.9700-039.3100]: I don't know.  But he went back in the kitchen and he cried.
+Ses01M_script01_1_F004 [039.7634-042.1267]: Did you talk to him?
+Ses01M_script01_1_M004 [041.6100-046.5800]: No.  I figured I'd just let it wait.
+Ses01M_script01_1_F005 [047.3034-050.4170]: Cried hard?
+Ses01M_script01_1_M005 [050.5400-055.6600]: Yeah
+Ses01M_script01_1_F006 [056.6816-058.8948]: [BREATHING]
+Ses01M_script01_1_F007 [059.1300-062.7211]: What is he doing out here at that hour?
+Ses01M_script01_1_M006 [062.8336-064.8400]: I don't know.
+Ses01M_script01_1_F008 [064.2400-069.2483]: He's dreaming about him again
+Ses01M_script01_1_M007 [069.4734-072.3994]: I guess he is.
+Ses01M_script01_1_F009 [072.3725-077.4625]: It's getting to be just like after he died.  What is the meaning of that?
+Ses01M_script01_1_M008 [076.7000-082.3525]: I don't know the meaning of it.  But I know we've made terrible mistake with father.
+Ses01M_script01_1_F010 [081.8100-084.0400]: What?
+Ses01M_script01_1_M009 [084.2534-092.2060]: I mean
+Ses01M_script01_1_F011 [091.9059-095.3200]: What do you mean a mistake?
+Ses01M_script01_1_M010 [095.9573-106.3450]: I just--why shouldn't he walk the nights waiting for him
+Ses01M_script01_1_F012 [105.8606-108.8100]: What do you want to do
+Ses01M_script01_1_M011 [107.9600-118.7275]: I don't want to argue with him
+Ses01M_script01_1_F013 [118.3898-120.8400]: You can't say that to him.
+Ses01M_script01_1_M012 [120.3100-122.6200]: I got to.
+Ses01M_script01_1_F014 [122.4600-128.7433]: What
+Ses01M_script01_1_M013 [128.2182-135.4200]: For God's sake
+Ses01M_script01_1_F015 [134.6600-145.9650]: To you it is
+Ses01M_script01_1_M014 [145.3600-151.1800]: Okay
+Ses01M_script01_1_F016 [149.0800-155.9500]: The trouble is those god damn news papers.  Every month some boy comes back missing longer then Larry so--
+Ses01M_script01_1_M015 [154.6500-165.3300]: Yeah
+Ses01M_script01_1_F017 [166.3800-168.4175]: Why?
+Ses01M_script01_1_M016 [168.6450-170.3700]: You know.
+Ses01M_script01_1_F018 [170.0400-174.8088]: Well
+Ses01M_script01_1_M017 [175.6100-179.2900]: I'm going to ask her to marry me.
+Ses01M_script01_1_F019 [179.6100-183.7800]: Well
+Ses01M_script01_1_M018 [183.1900-185.7400]: You know it's not just my business.
+Ses01M_script01_1_F020 [185.1200-188.7900]: Well
+Ses01M_script01_1_M019 [187.8000-190.5600]: So it's okay then?  I'm just going to go ahead with it?
+Ses01M_script01_1_F021 [189.8700-192.8600]: You want to make sure that your father's not going to...
+Ses01M_script01_1_M020 [192.2400-204.6689]: See.  Then it's not just my business. Sometimes you infuriate me
+Ses01M_script01_1_F022 [194.2750-196.5900]: I'm just saying.
+Ses01M_script01_1_F023 [204.2938-212.0300]: I'm sorry.  I ignore what I've got to ignore. That girl is Larry's girl.
+Ses01M_script01_1_M021 [210.7800-213.8300]: She is not Larry's girl.
+Ses01M_script01_1_F024 [213.1000-226.1500]: From father's point of view he is not dead and you have no right to take his girl.  I'm just saying that you can go on from there if you know where to go but I'm saying I don't know where to go.  See
+Ses01M_script01_1_M022 [234.2400-241.2200]: I don't know why it is you know every time I reach out for something I have to pull back 'cause I'm afraid it's going to hurt somebody.  All my life...
+Ses01M_script01_1_F025 [240.5600-244.1900]: You're a considerate fellow.  There's nothing wrong in that.
+Ses01M_script01_1_M023 [243.5500-245.9000]: To hell with that.
+Ses01M_script01_1_F026 [247.1332-251.1095]: Did you ask Annie yet?
+Ses01M_script01_1_M024 [250.7344-254.3490]: No
+Ses01M_script01_1_F027 [253.5400-258.8275]: Well
+Ses01M_script01_1_M025 [258.2900-267.6200]: Well
+Ses01M_script01_1_F028 [268.7405-274.2300]: The trouble is you don't see enough women
+Ses01M_script01_1_M026 [273.3900-277.8500]: So what?  I'm just--I'm not fast with women.
+Ses01M_script01_1_F029 [278.1000-281.2100]: I don't see why it has to be Annie.
+Ses01M_script01_1_M027 [280.3900-282.4625]: Because it is.
+Ses01M_script01_1_F030 [281.5900-289.5300]: That's a good answer but it doesn't answer anything.  You haven't seen her since you went away to war
+Ses01M_script01_1_M028 [288.4200-295.5900]: I don't know
+Ses01M_script01_1_F031 [299.1800-308.3500]: He thinks he's coming back
+Ses01M_script01_1_F032 [308.4800-315.0500]: Do you know what that'll do to you
+Ses01M_script01_1_M029 [319.9500-321.9700]: All right then.
+Ses01M_script01_1_F033 [321.4200-323.4650]: Give it some more thought.
+Ses01M_script01_1_M030 [322.8200-329.9700]: I've given it lots of thought.  And I keep coming back to the same thing.
+Ses01M_script01_1_M031 [334.5001-346.8900]: When I think of a family
+Ses01M_script01_1_F034 [346.5500-349.1200]: What the hell is this?
+Ses01M_script01_1_M032 [348.5200-353.4525]: I'll leave.  I'll get married and move somewhere else maybe New York.
+Ses01M_script01_1_F035 [352.8800-356.2574]: Are you crazy?
+Ses01M_script01_1_M033 [356.5200-359.2584]: I'll do it.
+Ses01M_script01_1_F036 [359.0800-364.8550]: You have a business here.  I said what the hell is this?
+Ses01M_script01_1_M034 [364.2500-368.5500]: Business?  The business doesn't inspire me.
+Ses01M_script01_1_F037 [367.5400-370.9500]: Oh
+Ses01M_script01_1_M035 [369.3000-380.4900]: Yes
+Ses01M_script01_1_M036 [380.6425-383.3415]: If that can't happen here...
+Ses01M_script01_1_F038 [384.2043-389.9700]: You mean to tell me you would leave the business for this.
+Ses01M_script01_1_M037 [389.2000-392.1500]: Yes
+Ses01M_script01_1_F039 [391.9425-394.8650]: Well
+Ses01M_script01_1_M038 [394.4000-397.0800]: Then help me stay here mom.
+Ses01M_script01_1_F040 [397.1175-408.9800]: All right but you don't think like that because what the hell is this all for.  This is all for you
+Ses01M_script01_1_M039 [405.1800-407.5100]: I know
+Ses01M_script01_1_M040 [408.0000-410.1525]: Then help me stay.
+Ses01M_script01_1_F041 [410.0300-412.8900]: Well
+Ses01M_script01_1_M041 [412.1300-414.7800]: I am thinking like that.
+Ses01M_script01_1_F042 [415.0800-418.9410]: I don't understand you
+Ses01M_script01_1_M042 [418.6034-423.2925]: No
+Ses01M_script01_1_F043 [422.8798-426.0309]: Well
+Ses01M_script01_2_F000 [005.3913-008.2350]: Why did he invite her here?
+Ses01M_script01_2_M000 [008.4194-012.9200]: Well
+Ses01M_script01_2_F001 [012.7400-017.2800]: It's been three and a half years.  Why all of a sudden?
+Ses01M_script01_2_M001 [018.1900-025.3600]: Well uh
+Ses01M_script01_2_M002 [026.5500-032.1900]: Don't look at me like that.  He didn't tell me anything he told you.
+Ses01M_script01_2_F002 [032.6300-035.3425]: He's not going to marry her.
+Ses01M_script01_2_M003 [034.7100-037.2100]: How do you know he's even thinking about it?
+Ses01M_script01_2_F003 [036.7600-039.4800]: it's got that about it.
+Ses01M_script01_2_M004 [039.1700-041.6900]: Oh so what?
+Ses01M_script01_2_F004 [041.1800-044.7000]: What is going on here
+Ses01M_script01_2_M005 [044.6700-048.3700]: Okay
+Ses01M_script01_2_F005 [047.6200-056.0600]: The girl is not Larry's.  If the girl is Larry's girl she's not his she know she's not.
+Ses01M_script01_2_M006 [063.5200-065.2800]: Listen. Line. You can't read her mind.
+Ses01M_script01_2_F006 [064.4200-072.3600]: Then why is she still single?  New York is full of men probably a hundred people told her she is crazy but she is waited.
+Ses01M_script01_2_M007 [071.8800-074.4000]: And how do you know why she's waited.
+Ses01M_script01_2_F007 [074.0100-086.7700]: Because she knows what I know that's why.  She's faithful as a rock. in my darkest moments I think of her waiting and I know that I'm right.
+Ses01M_script01_2_M008 [087.5300-093.4400]: Okay
+Ses01M_script01_2_F008 [092.8300-103.0000]: Nobody in this house dares take away her faith Joe.  Her- strangers might but not her father
+Ses01M_script01_2_M009 [102.6100-106.8600]: What do you want me to do?  What do you want?
+Ses01M_script01_2_F009 [104.7050-118.3200]: I want you to---act like he is coming back.  Don't think I haven't noticed you
+Ses01M_script01_2_M010 [119.2100-121.2425]: Kate...
+Ses01M_script01_2_F010 [120.9400-124.3900]: Because if he's not coming back then I'll kill myself.
+Ses01M_script01_2_M011 [124.2883-125.3375]: [BREATHING]
+Ses01M_script01_2_F011 [124.9800-135.2991]: Oh
+Ses01M_script01_2_M012 [134.6900-137.0700]: All right
+Ses01M_script01_2_F012 [136.6100-145.6000]: Believe with me Joe
+Ses01M_script01_2_M013 [138.5700-142.3975]: Okay
+Ses01M_script01_2_M014 [144.4400-146.7900]: calm yourself.
+Ses01M_script01_2_F013 [145.6400-150.2900]: You above all have got to believe. Just don't stop believing.
+Ses01M_script01_2_M015 [147.5375-152.1200]: What does that mean? Me above all? What does that mean?
+Ses01M_script01_2_M016 [152.6600-157.8900]: Look at you. You're shaking.
+Ses01M_script01_2_F014 [159.3000-161.8600]: I can't help it.
+Ses01M_script01_2_M017 [163.3800-167.4300]: What the hell do you want from me
+Ses01M_script01_3_F000 [008.2904-011.9425]: The only one I know still love his parents.
+Ses01M_script01_3_M000 [011.8600-015.1286]: Yeah
+Ses01M_script01_3_F001 [014.5812-020.0400]: Oh it's not bad thing it's good thing.
+Ses01M_script01_3_F002 [020.7769-027.6000]: You know it's nice here
+Ses01M_script01_3_M001 [028.1000-030.5850]: You're not sorry you came?
+Ses01M_script01_3_F003 [030.1500-038.2445]: Not sorry
+Ses01M_script01_3_M002 [038.4600-041.3299]: Why not?
+Ses01M_script01_3_F004 [040.8100-044.5425]: For one thing your mother as much as told me to go.
+Ses01M_script01_3_M003 [044.1700-046.0650]: Well.
+Ses01M_script01_3_F005 [045.7500-051.2332]: [BREATHING] And then you've been kind of...
+Ses01M_script01_3_M004 [051.0590-053.2700]: What?
+Ses01M_script01_3_F006 [053.7700-059.2200]: You've been kind of embarrassed ever since I got here.
+Ses01M_script01_3_M005 [063.7100-077.5575]: I was kind of planning on sneaking up on you
+Ses01M_script01_3_F007 [076.8200-080.3200]: I knew they would
+Ses01M_script01_3_M006 [079.4100-081.1172]: You did?
+Ses01M_script01_3_F008 [080.6400-085.2800]: From her point of view why else would I come?
+Ses01M_script01_3_M007 [085.7000-088.3580]: Yeah--
+Ses01M_script01_3_M008 [088.7200-102.1500]: So then would you want to?  I mean I guess
+Ses01M_script01_3_F009 [104.1500-109.6300]: Well I guess that's why I came.
+Ses01M_script01_3_M009 [111.9467-120.1828]: Ann
+Ses01M_script01_3_M010 [122.3000-126.0750]: I love you a great deal.
+Ses01M_script01_3_M011 [126.5900-130.9400]: I'm sorry I don't really have much of an imagination.
+Ses01M_script01_3_F010 [148.7000-150.8000]: Chris
+F:[LAUGHTER]
+Ses01M_script01_3_M012 [132.7800-147.9500]: I'm sorry I'm embarrassing you
+Ses01M_script01_3_F011 [150.8300-154.1400]: I've been ready a long
+Ses01M_script01_3_M013 [156.2200-161.5000]: So then he's gone.  You sure?
+Ses01M_script01_3_F012 [161.9300-165.3000]: I almost got married two years ago.
+Ses01M_script01_3_M014 [165.6682-167.9300]: Why didn't you?
+Ses01M_script01_3_F013 [167.8525-170.4900]: You started to write me.
+Ses01M_script01_3_M015 [171.1174-174.5900]: You felt something that far back?
+Ses01M_script01_3_F014 [173.6300-175.6300]: Everyday since.
+Ses01M_script01_3_M016 [175.3300-178.0700]: why didn't you let me know?
+Ses01M_script01_3_F015 [177.1300-185.6300]: Because I was waiting for you
+Ses01M_script01_3_M017 [184.6500-194.6563]: Oh Annie
+Ses01M_script01_3_M018 [197.0000-201.8600]: I kissed you.  I kissed Annie.
+Ses01M_script01_3_F016 [200.9400-207.6450]: I'll never forgive you for waiting so long.  All I did was sit around and wonder if I was crazy for thinking about you.
+Ses01M_script01_3_M019 [207.1800-210.0400]: I kissed you.
+Ses01M_script01_3_F017 [215.8800-221.4300]: Like Larry's brother.  Do what like you
+Ses01M_script01_3_F018 [225.0200-227.3023]: Chris
+Ses01M_script01_3_M020 [228.2800-232.2300]: Do you want to go somewhere?  Let's go.
+Ses01M_script01_3_F019 [231.3600-235.2050]: No
+Ses01M_script01_3_M021 [234.5900-238.4800]: No
+Ses01M_script01_3_F020 [236.9900-243.4400]: Well
+Ses01M_script01_3_M022 [244.1400-252.9200]: I don't know it's--it's complicated. But it's going from me now.
+F: You got to...
+Ses01M_script01_3_F021 [253.4100-256.4398]: You got to tell me.
+Ses01M_script01_3_M023 [256.1412-259.1271]: I don't know.
+F: But what if...
+Ses01M_script01_3_M024 [259.3510-263.9700]: It's kind of all mixed up with all these other things.
+Ses01M_script01_3_F022 [265.5717-269.0800]: Wouldn't work like this.
+Ses01M_script01_3_M025 [272.3400-277.8637]: you know over seas I was in command of the company?
+Ses01M_script01_3_F023 [277.2300-279.3900]: Yeah
+Ses01M_script01_3_M026 [281.1400-283.9100]: Well I lost them.
+Ses01M_script01_3_F024 [285.5100-288.3400]: How many?
+Ses01M_script01_3_M027 [288.1800-291.0300]: Pretty much all.
+Ses01M_script01_3_F025 [290.5787-293.7900]: [BREATHING]. Geez.
+Ses01M_script01_3_M028 [293.6392-307.4900]: Takes awhile to toss something like that off.  I mean they weren't just men
+Ses01M_script01_3_M029 [307.7375-320.0300]: For instance
+Ses01M_script01_3_M030 [320.1175-326.5000]: He just put it in my pocket that's the kind of guys I had.
+Ses01M_script01_3_M031 [327.3700-337.8600]: They didn't die they killed themselves for each other and I mean that exactly
+Ses01M_script01_3_M032 [339.8710-363.7300]: And I had this idea as I was watching them go down like everything was being destroyed
+Ses01M_script01_3_M033 [363.8650-373.3200]: You know
+Ses01M_script01_3_M034 [374.5675-388.8175]: I thought I would change everything you know
+Ses01M_script01_3_M035 [389.0888-397.0950]: You know.  I went to work with dad and I started that whole rat race again...
+Ses01M_script01_3_M036 [397.3498-405.6900]: And no one had changed it was just like sort of random bus accident to them.
+Ses01M_script01_3_M037 [406.2000-414.2600]: Driving my new car and I felt guilty you know opening my bank book seeing a new refrigerator.
+Ses01M_script01_3_M038 [417.2900-430.7600]: 'Cause you can take those things out of a war.  But you have to realize that those things came out of the love that a man can have for another man...
+Ses01M_script01_3_M039 [431.0408-439.0700]: And if you can't see that then it's just loot and there's blood all over it.
+Ses01M_script01_3_M040 [439.4800-449.9100]: I felt ashamed and I didn't want any part of it.  I guess I included you too.
+Ses01M_script01_3_F026 [455.2600-458.7400]: Do you still feel that way?
+Ses01M_script01_3_M041 [460.4000-463.8500]: I want you to know Annie.
+Ses01M_script01_3_F027 [464.0599-472.8700]: 'Cause you mustn't feel that way.  Everything you have
+Ses01M_script01_3_F028 [473.5225-480.1500]: Everything Chris do you understand that?  To me too...
+Ses01M_script01_3_F029 [481.6500-495.6700]: And your money there's nothing wrong in your money.  Your father put hundreds of planes into the air.  You should be proud of that a man should be paid for that.
+Ses01M_script01_3_M042 [499.4600-502.2700]: Annie...
+Ses01M_script01_3_M043 [507.7700-511.4612]: I'm going to make a fortune for you.
+Ses01M_script01_3_F030 [510.6900-513.8625]: What would I do with a fortune?
+Ses01M_script02_1_M000 [003.3988-008.5500]: What time is it?  God
+Ses01M_script02_1_M001 [009.0475-021.0500]: Of course I did want to a little further up the coast you know get away from all the lights and people and everything.  Is it midnight
+Ses01M_script02_1_F000 [018.9629-020.8200]: I'm fine.
+Ses01M_script02_1_M002 [021.1025-026.0300]: Look
+Ses01M_script02_1_M003 [026.9072-030.6700]: No
+Ses01M_script02_1_F001 [030.3200-032.0500]: Ugh...
+Ses01M_script02_1_M004 [031.7900-041.7119]: Oh
+Ses01M_script02_1_M005 [041.8225-052.5650]: Gosh
+Ses01M_script02_1_M006 [052.6225-058.5575]: My flashlight.  How could I forget my flashlight?  God--
+Ses01M_script02_1_F002 [058.0400-060.0100]: What flashlight?
+Ses01M_script02_1_M007 [059.4500-063.6475]: Flashlight the silver one.  There's only one isn't there?
+Ses01M_script02_1_F003 [063.1300-065.7800]: That's not your flashlight.
+Ses01M_script02_1_M008 [065.7200-067.5700]: Whose is it?
+Ses01M_script02_1_F004 [067.0200-069.8200]: It's ours; it's my flashlight
+Ses01M_script02_1_M009 [069.4100-071.2800]: Oh
+Ses01M_script02_1_F005 [070.6900-075.3800]: You keep saying "my flashlight" like somehow it's just yours. How's that supposed to make me feel?
+M: No.
+Ses01M_script02_1_M010 [074.8900-081.7300]: Of course
+Ses01M_script02_1_M011 [082.2739-087.4750]: Gosh
+Ses01M_script02_1_M012 [088.3200-096.8200]: It's a nice moon though
+Ses01M_script02_1_F006 [096.2700-098.1135]: Yeah.
+Ses01M_script02_1_M013 [097.9122-105.1300]: Are you all right?  Are you okay?  You cold?  Do you want to my jacket? My jacket? No?
+Ses01M_script02_1_F007 [101.3300-102.6100]: No.
+Ses01M_script02_1_M014 [107.2700-124.6900]: You know what we should've brought a blanket too.  Man
+Ses01M_script02_1_M015 [125.1356-128.4600]: What's wrong?  Are you okay?  Huh?  You cold?
+Ses01M_script02_1_F008 [128.5550-130.3000]: I'm fine.
+Ses01M_script02_1_M016 [134.9100-138.4300]: Oh yeah
+Ses01M_script02_1_M017 [138.4900-142.9100]: I can't believe I got out of the house without my fly zipped up even.
+M: Eek. Hehe. Oops.
+Ses01M_script02_1_F009 [153.5100-155.7900]: I wonder if they can hear me talk
+F:[Chuckles]
+Ses01M_script02_1_M018 [155.5400-158.3500]: I wonder if they can hear me talking
+Ses01M_script02_1_M019 [158.3800-161.6750]: Like feel the vibrations in the sand when we move around.
+Ses01M_script02_1_F010 [161.6249-163.5475]: I'm cold.
+Ses01M_script02_1_M020 [163.6278-166.5100]: Do you want my jacket?
+Ses01M_script02_1_F011 [165.8000-168.6350]: It's after eleven
+Ses01M_script02_1_M021 [168.0200-175.2200]: What are you kidding?  We just got here.  We don't want to turn around and go home now.  What's the point coming all the way down here?
+Ses01M_script02_1_F012 [174.7000-176.8514]: There is no point.
+Ses01M_script02_1_M022 [176.4900-178.1775]: Right.
+Ses01M_script02_1_F013 [177.9600-180.1500]: That's my point.
+Ses01M_script02_1_M023 [179.8000-182.6525]: That's my point too.
+Ses01M_script02_1_F014 [182.1100-184.4100]: Then let's go.
+Ses01M_script02_1_M024 [183.8200-191.9600]: No
+Ses01M_script02_1_M025 [192.1200-194.0925]: Don't you want to see it?
+Ses01M_script02_1_F015 [193.6200-195.9500]: Not particularly.
+Ses01M_script02_1_M026 [195.3000-197.1400]: Why not?
+Ses01M_script02_1_F016 [196.4800-199.8900]: I just don't
+Ses01M_script02_1_M027 [200.4000-205.8000]: It's not stupid.  It's a natural phenomenon.
+Ses01M_script02_1_M028 [205.8575-215.6599]: People in Kansas would have to get plane tickets and make hotel reservations to see this.  It's only forty minutes away; it's just too good to pass up.
+Ses01M_script02_1_F017 [215.1712-224.1800]: Pass what up?  These little fish swim out of the ocean
+Ses01M_script02_1_M029 [223.5940-238.3125]: Yeah but that like flopping around is what to do it's like spawning or mating or something.  This is like the highlight of their little fish lives.  It's like life's last orgy.
+Ses01M_script02_1_F018 [237.7400-248.4000]: I don't know what you're so excited about.  This isn't a moon landing we're talking about
+Ses01M_script02_1_M030 [247.9200-249.5200]: Yeah
+Ses01M_script02_1_F019 [248.9900-251.1912]: Oh
+Ses01M_script02_1_M031 [250.5900-266.3200]: Well
+Ses01M_script02_1_M032 [266.4000-274.4825]: It's like a little bit of the unexplainable
+Ses01M_script02_1_F020 [273.9800-276.1435]: I'm not.
+Ses01M_script02_1_M033 [275.5000-277.3075]: For real?
+Ses01M_script02_1_F021 [276.9400-278.4400]: Yes.
+Ses01M_script02_1_M034 [279.6900-282.8100]: All right.
+Ses01M_script02_1_M035 [289.5300-296.9725]: I don't get it though
+Ses01M_script02_1_M036 [297.0800-305.0900]: And last year I remember like distinctively you were so excited to get here that you didn't realize you stubbed your toe until we were in a car.
+Ses01M_script02_1_F022 [304.4200-318.4303]: Last year
+Ses01M_script02_1_M037 [317.7800-320.0133]: We just weren't in a good spot though.
+Ses01M_script02_1_F023 [319.6100-321.8200]: We didn't see them the year before either.
+Ses01M_script02_1_M038 [321.2400-325.9100]: We just weren't in a good spot I'm telling you this is a much better spot.
+Ses01M_script02_1_M039 [326.8820-338.7500]: Come on
+Ses01M_script02_1_M040 [338.9269-347.0862]: Out there
+Ses01M_script02_1_M041 [347.1150-355.9600]: They don't know why
+Ses01M_script02_1_M042 [356.0100-367.2140]: They just all turned at once and they just form this line as long as the California coast.  And they just started swimming...
+Ses01M_script02_1_M043 [367.3200-375.7175]: Like some little time release fire cracker went off inside their little tiny bodies.  And they all turned as one...
+Ses01M_script02_1_M044 [375.8875-383.5400]: And form the line and started swimming
+Ses01M_script02_1_M045 [383.7800-391.4700]: It's like urgency that's pure urge you know.  It's single-mindedness with no mind.
+Ses01M_script02_1_M046 [393.6300-401.8275]: It's crazy.  Look at this
+Ses01M_script02_1_F024 [402.0100-405.0400]: That's the wind.
+Ses01M_script02_2_M000 [001.8500-006.5924]: They're out there swimming right now...
+Ses01M_script02_2_M001 [006.8900-015.1948]: ...to this spot for this massive celebration of like sex and death...
+Ses01M_script02_2_M002 [015.9987-021.2600]: Look at this
+Ses01M_script02_2_F000 [021.0588-023.3952]: That's the wind.
+Ses01M_script02_2_M003 [023.4800-027.7100]: Well
+Ses01M_script02_2_F001 [027.5800-029.9072]: About what?
+Ses01M_script02_2_M004 [029.4650-031.7161]: About what I was saying.
+Ses01M_script02_2_F002 [031.3400-034.3200]: I think it's ridiculous.
+Ses01M_script02_2_M005 [035.1500-041.2600]: It certainly is not.  It's like slightly exaggerated scientific fact.
+Ses01M_script02_2_F003 [040.7200-043.2000]: It's a PR.
+Ses01M_script02_2_F004 [043.2300-048.3982]: Somebody sold you a bill of goods that something amazing is going to happen on the beach.
+Ses01M_script02_2_M006 [048.9610-052.0600]: It's not just me
+Ses01M_script02_2_F005 [051.5700-053.8100]: They're all told the same thing.
+Ses01M_script02_2_F006 [053.8600-060.2968]: Everybody is believes that it keeps them excited
+Ses01M_script02_2_F007 [060.3600-065.6400]: Everybody keeps thinking that they can just find the right spot
+Ses01M_script02_2_F008 [065.6900-068.7785]: Their life will start then.
+Ses01M_script02_2_M007 [070.2257-073.3600]: Are we talking about the same thing?
+Ses01M_script02_2_F009 [073.0400-076.8100]: I'm sorry it still just fish to me.
+Ses01M_script02_2_M008 [079.8400-084.9300]: Can I ask you a question?  Are you on your period?
+Ses01M_script02_2_F010 [084.3550-091.7025]: Why do you ask me that?  God damn it
+Ses01M_script02_2_M009 [090.9850-093.7900]: Okay
+Ses01M_script02_2_F011 [093.1300-098.0700]: I just
+Ses01M_script02_2_M010 [097.9700-104.6100]: Is not supposed to like anything.  We come down here
+Ses01M_script02_2_F012 [104.1425-109.0200]: Oh. Grow up Augie
+Ses01M_script02_2_M011 [104.6100-107.0800]: And then we go home and they go home.
+Ses01M_script02_2_M012 [108.3575-109.8025]: Why not?
+Ses01M_script02_2_F013 [109.2700-113.8000]: Because they never do.  Do they
+Ses01M_script02_2_M013 [114.1000-116.5200]: We missed them twice.
+Ses01M_script02_2_F014 [116.1300-119.3800]: Twice is every year we've tried that's ever.
+Ses01M_script02_2_M014 [118.7775-123.1250]: Okay we'll see them this year
+Ses01M_script02_2_F015 [121.2775-125.9375]: No we won't.  It's pointless it's like a waiting up to see Santa Claus.
+Ses01M_script02_2_F016 [126.0225-137.5100]: I feel like my whole life is going to be spent here on the beach with my eyes wide open and my hands clasped expectantly
+Ses01M_script02_2_M015 [137.4365-140.3043]: Okay
+Ses01M_script02_2_F017 [141.9575-145.1545]: You don't understand anything I'm saying.
+Ses01M_script02_2_M016 [140.3043-143.4071]: and figure out where we took a turn to the worst thing.
+Ses01M_script02_2_M017 [144.5525-147.0975]: Of course not.
+Ses01M_script02_2_F018 [146.8400-157.2400]: I did want to see it I still do
+Ses01M_script02_2_M018 [158.0200-166.1675]: Okay.  I'm trying to work this backwards here and I'm trying to figure out the exact moment that you took a turn for the worst here
+Ses01M_script02_2_M019 [166.3600-174.7925]: you were fine during the phone call from Marge
+Ses01M_script02_2_M020 [174.8850-184.7175]: Let's see
+Ses01M_script02_2_M021 [184.8300-189.5425]: So I'm putting the animals out we're getting the car to the garage and--
+Ses01M_script02_2_F019 [189.0700-197.9100]: Do you remember the first year we came here? It's about four years ago right after we got married.
+Ses01M_script02_2_F020 [198.0250-208.1600]: We thought I was pregnant we had this bottle of champagne but no glasses.  You asked me to dance so we took off our shoes.
+Ses01M_script02_2_F021 [208.7300-221.1700]: While we were dancing you said the softest most intimate things to me
+Ses01M_script02_2_F022 [222.6559-232.4642]: And I remember thinking this is it. finally
+Ses01M_script02_2_M022 [232.3838-235.8500]: Wait a minute
+Ses01M_script02_2_F023 [235.3400-241.2075]: Dancing on the beach barefoot
+Ses01M_script02_2_M023 [241.5900-255.4550]: It was when we were driving passed that knickerbocker liquor locker and you would said
+Ses01M_script02_2_M024 [255.5100-259.0275]: You want this to be like the other times
+Ses01M_script02_2_F024 [258.5600-265.2255]: I'd rather not remember some things.  I'd rather not hope for some things.
+Ses01M_script02_2_M025 [265.3800-269.6874]: Oh right sure
+Ses01M_script02_2_M026 [270.6120-273.1525]: Do you want to dance?
+Ses01M_script02_2_F025 [273.3052-275.4759]: No.
+Ses01M_script02_2_M027 [274.9100-277.7200]: You want me to go get some champagne?
+Ses01M_script02_2_F026 [276.6600-278.5712]: No.
+Ses01M_script02_2_M028 [279.5359-282.4301]: Do you want to take off our shoes?
+Ses01M_script02_2_F027 [281.5975-283.4400]: No.
+Ses01M_script02_2_M029 [283.5959-288.0578]: What? Huh?
+Ses01M_script02_2_M030 [289.3844-293.8865]: You want to get married again?
+Ses01M_script02_2_M031 [294.0375-299.4000]: What?  What?  You want to divorce?
+Ses01M_script02_2_F028 [298.4600-300.3400]: No.
+Ses01M_script02_2_M032 [299.9500-301.6900]: A vacation?
+Ses01M_script02_2_F029 [301.0300-302.5000]: No.
+Ses01M_script02_2_M033 [301.9800-308.7400]: A new carpet
+Ses01M_script02_2_F030 [307.7400-311.3225]: I want something to turn out the way that it's supposed to.
+Ses01M_script02_2_M034 [310.3372-312.7253]: Well
+Ses01M_script02_2_M035 [312.7253-327.0096]: You think nothing turns out how it's supposed to.  You think I had some grand idea going that four years down the line.  We would come to this beach and argue over fish?  No.
+Ses01M_script02_2_M036 [327.3500-337.2525]: You think there would be times when you'd look at me like I was used Kleenex and then I'd look at you and think "Holy hell when is the next flight to Alaska."
+Ses01M_script02_2_M037 [337.3025-352.1575]: No
+Ses01M_script02_2_M038 [352.7475-359.8914]: No.  You know what you get?  You know what you get?  You get this.
+Ses01M_script02_2_F031 [359.5296-364.6775]: This what?  What is this?  This isn't even anything.
+Ses01M_script02_2_M039 [364.5650-365.9500]: Yeah
+Ses01M_script02_2_F032 [365.5450-372.6025]: Oh
+Ses01M_script02_2_M040 [372.4150-374.0700]: Right.
+Ses01M_script02_2_F033 [373.8803-378.5200]: This isn't anything like I thought anything would be.
+Ses01M_script02_2_M041 [378.5030-381.5100]: I know me neither.
+Ses01M_script02_2_F034 [382.4500-394.0500]: This is just this.  I mean it includes a lot and everything but it's--do you understand what I'm saying?
+Ses01M_script02_2_M042 [394.5500-397.9186]: I'm doing the best I can.
+Ses01M_script02_2_F035 [397.6774-403.3800]: I know that Augie
+Ses01M_script02_2_F036 [403.7875-412.0800]: I just can't help wishing that I was somebody
+Ses01M_script02_2_M043 [413.9173-418.2500]: Maybe if you were with somebody else too?
+Ses01M_script02_2_F037 [417.3550-419.3550]: I didn't say that.
+Ses01M_script02_2_M044 [419.2600-425.9700]: No
+Ses01M_script02_2_F038 [427.3434-435.4800]: Are you kidding me?  For heaven sake Augie anything I'm doing I'd rather be doing it with you.
+Ses01M_script02_2_M045 [435.7448-437.6250]: Yeah?
+Ses01M_script02_2_F039 [437.5175-442.3000]: Yes
+Ses01M_script02_2_F040 [443.1010-453.7200]: You are the one who probably wishes he was with somebody else
+Ses01M_script02_2_M046 [454.7986-463.2300]: Actually
+Ses01M_script02_2_F041 [465.8800-472.4052]: So maybe we're in the wrong spot.  But we're with the right person.
+Ses01M_script02_2_M047 [472.2846-478.6200]: I don't know
+Ses01M_script02_2_M048 [479.8820-484.1975]: We do have really good view of the moon from here though.
+Ses01M_script02_2_F042 [483.0575-490.6600]: Oh I saw that.  Pretty isn't it. Big ol' white moon.
+Ses01M_script02_2_M049 [490.9800-494.4875]: Look what we got here.
+Ses01M_script02_2_F043 [493.9915-498.4250]: Augie
+Ses01M_script02_2_M050 [497.8775-500.0400]: It's not champagne.
+Ses01M_script02_2_F044 [498.9575-503.2900]: I guess we don't need glasses.
+Ses01M_script02_2_M051 [509.1461-513.8400]: Are you cold
+Ses01M_script02_2_F045 [513.8090-521.4400]: I'm beginning to think you might be right.  I think this might be the spot after all.
+Ses01M_script02_2_F046 [523.7100-526.5919]: Augie
+Ses01M_script02_2_M052 [525.2750-528.0391]: Shh...
+Ses01M_script02_2_M053 [528.9636-535.2345]: If we are really quiet
+Ses01M_script02_2_F047 [535.9982-539.3749]: Or not.
+Ses01M_script02_2_M054 [539.5758-542.2691]: Or not.
+Ses01M_script03_1_M000 [005.8200-007.6225]: Good God.
+Ses01M_script03_1_F000 [007.3698-009.4250]: Do you think it's them?
+Ses01M_script03_1_M001 [009.2100-011.5500]: I wonder.
+Ses01M_script03_1_F001 [011.1350-015.2126]: Freda is the only one who knows we are here. She wouldn't ring up.
+Ses01M_script03_1_M002 [014.7657-016.8575]: Must be them then.
+Ses01M_script03_1_F002 [016.3800-019.7400]: What we're going to do?
+Ses01M_script03_1_M003 [020.2958-024.1903]: We're okay
+Ses01M_script03_1_F003 [023.7700-026.6080]: Now and always sweet.
+Ses01M_script03_1_M004 [026.2300-028.6800]: I don't care then.
+Ses01M_script03_1_F004 [028.1700-030.7900]: It had to happen sooner or later.
+Ses01M_script03_1_M005 [030.1400-040.5172]: Yes... Hello?  Hello?  I'm sorry what's that?
+Ses01M_script03_1_M006 [040.6661-042.9600]: No
+Ses01M_script03_1_F005 [044.2800-049.6300]: Oh
+Ses01M_script03_1_M007 [048.8478-050.4450]: [BREATHING] [LAUGHTER]
+Ses01M_script03_1_F006 [049.7800-051.3325]: Oh...
+Ses01M_script03_1_M008 [051.1167-052.3000]: [BREATHING]
+Ses01M_script03_1_F007 [052.0100-053.2000]: [BREATHING]
+Ses01M_script03_1_M009 [052.4300-055.4100]: What shall we do if they suddenly walk in on us?
+Ses01M_script03_1_F008 [054.4200-056.9500]: Oh. Behave exquisitely...
+Ses01M_script03_1_M010 [056.3600-058.9200]: With perfect poise...
+Ses01M_script03_1_F009 [057.1675-061.0500]: [LAUGHTER] I think I shall do a court curtsey.
+Ses01M_script03_1_M011 [060.0700-061.4025]: Ah...
+Ses01M_script03_1_F010 [061.1400-062.5000]: [LAUGHTER]
+Ses01M_script03_1_M012 [061.9400-063.7624]: Ah...Strange...
+Ses01M_script03_1_F011 [063.4700-064.7675]: Mmm...
+Ses01M_script03_1_M013 [064.3200-069.9700]: Things that just ought to matter dreadfully
+Ses01M_script03_1_F012 [069.3900-072.7000]: The pity is that one can't stay happy.
+Ses01M_script03_1_M014 [072.2700-074.5800]: Darling
+Ses01M_script03_1_F013 [074.0900-077.5175]: It's true.  I think the whole things a very poor joke.
+Ses01M_script03_1_M015 [077.0200-080.8200]: What
+Ses01M_script03_1_F014 [080.0300-082.8964]: Oh
+Ses01M_script03_1_M016 [082.3473-088.4000]: Oh
+Ses01M_script03_1_F015 [086.9900-090.7600]: [LAUGHTER] Don't laugh at me I'm being serious.
+Ses01M_script03_1_M017 [090.0900-093.7700]: You mustn't be so serious
+Ses01M_script03_1_F016 [092.9100-094.9100]: Oh whose they?
+Ses01M_script03_1_M018 [094.3500-099.8850]: Oh you know all those superficial philosophers. We must laugh at them
+Ses01M_script03_1_M019 [099.9150-106.2707]: Flippancy brings out the acid in their darn sweetness and light.
+Ses01M_script03_1_F017 [104.8300-108.7600]: Mmhmm If I must laugh at everything
+Ses01M_script03_1_M020 [108.2600-109.4000]: Oh yes.  .
+Ses01M_script03_1_F018 [111.5526-117.7531]: How long will it last
+Ses01M_script03_1_M021 [109.4400-112.1700]: We are figures of fun all right
+M: Mmhmm...
+Ses01M_script03_1_M022 [117.2200-119.8100]: Ahh...who knows.
+Ses01M_script03_1_F019 [119.1500-122.5384]: Shall we always want to bicker and fight?
+Ses01M_script03_1_M023 [121.8100-127.4900]: No
+Ses01M_script03_1_F020 [126.9325-130.2975]: Oh
+Ses01M_script03_1_M024 [129.7700-133.2600]: Well it depends on how well we've played.
+Ses01M_script03_1_F021 [133.9500-137.0400]: If one of us dies...
+F: Hmm...
+Ses01M_script03_1_F022 [137.0400-139.5300]: does the one that's left still laugh?
+Ses01M_script03_1_M025 [139.6316-143.1200]: Yes
+Ses01M_script03_1_F023 [142.6100-145.6086]: Well
+Ses01M_script03_1_M026 [145.2176-153.2056]: No
+Ses01M_script03_1_F024 [152.6656-155.3500]: I think you're talking nonsense.
+Ses01M_script03_1_M027 [154.5200-158.0950]: Ah so is everyone in the long run
+Ses01M_script03_1_F025 [157.5600-158.9250]: Hmm.
+Ses01M_script03_1_M028 [158.4500-172.7567]: Let's pity the poor philosophers
+Ses01M_script03_1_F026 [172.1422-175.0655]: Ah.
+Ses01M_script03_1_M029 [174.5256-177.9000]: Come here darling
+Ses01M_script03_1_F027 [180.6200-185.4100]: Oh
+Ses01M_script03_1_M030 [177.9900-181.6100]: before your body rots and worms pop out of your eye sockets.
+M: [LAUGHTER] Ahh...
+Ses01M_script03_1_M031 [189.3000-198.2100]: See
+Ses01M_script03_1_F028 [205.5500-208.1500]: Oh
+Ses01M_script03_1_M032 [198.2500-206.1500]: You could run off with all the men in a world. I won't say a word.  Just as long as you love me best.
+M: Ahh...
+Ses01M_script03_1_F029 [208.1700-215.0000]: The same applies to you too
+Ses01M_script03_1_M033 [220.4300-223.7300]: Do you remember that row we did have in Venice?
+Ses01M_script03_1_F030 [222.9000-226.0500]: Which particular one?
+Ses01M_script03_1_M034 [225.5100-230.3900]: The one when you put that little wooden painted snake in my bed?
+Ses01M_script03_1_F031 [229.5300-235.7800]: Oh
+Ses01M_script03_1_M035 [234.2800-236.9000]: It was a horrible thing I hated it.
+Ses01M_script03_1_F032 [236.0200-242.5000]: Oh I know you threw it out the window and into the Grand Canal.  Oh
+Ses01M_script03_1_M036 [241.9859-245.7300]: Of course how long did that row last?
+Ses01M_script03_1_F033 [245.2600-248.5425]: It went on intermittently for days.
+Ses01M_script03_1_M037 [247.8600-257.2500]: But you know it wasn't as bad as the one we had in Cannes...mmhmm...where your curling irons burnt a hole in my dressing gown.
+Ses01M_script03_1_F034 [251.4100-254.5525]: Cannes...mmhmm...
+Ses01M_script03_1_F035 [256.0800-260.4000]: Oh it burnt my comb too and all those towels in the bathroom.
+Ses01M_script03_1_M038 [259.6700-262.1500]: Oh that was a rouser wasn't it?
+Ses01M_script03_1_F036 [263.0700-267.8200]: The manager came in he found us rolling about the floor.  [LAUGHTER]
+Ses01M_script03_1_M039 [271.5500-275.8800]: I will never forget the look on his face.
+Ses01M_script03_1_F037 [267.8400-272.5300]: Scratching and biting like panthers. [LAUGHTER] Oh...
+Ses01M_script03_1_M040 [280.0900-282.9400]: oh...
+Ses01M_script03_1_F038 [276.2400-279.0100]: Utterly
+Ses01M_script03_1_F039 [280.9400-283.8275]: oh...[LAUGHTER]
+Ses01M_script03_1_M041 [283.3100-285.7500]: We were very much younger then.
+Ses01M_script03_1_F040 [285.0900-287.8400]: Very much sillier.
+Ses01M_script03_1_M042 [289.3900-296.0399]: However
+Ses01M_script03_1_F041 [295.4999-300.3411]: Oh you knew there was nothing in that.
+Ses01M_script03_2_M000 [008.8900-010.5700]: [LAUGHTER]
+Ses01M_script03_2_F000 [009.1274-012.4425]: [LAUGHTER] Utterly
+Ses01M_script03_2_M001 [011.9100-013.7800]: We were very much younger then.
+Ses01M_script03_2_F001 [013.1400-015.7700]: Very much sillier.
+Ses01M_script03_2_M002 [014.5300-016.6600]: Mmhmm.
+Ses01M_script03_2_M003 [017.1948-022.5087]: However
+Ses01M_script03_2_F002 [022.0335-026.6200]: Oh you knew there was nothing in that.
+Ses01M_script03_2_M004 [025.5100-030.3200]: I knew nothing of the sort. You took presents from him.
+Ses01M_script03_2_F003 [029.6100-034.1900]: Presents? It was a trivial little broach.
+Ses01M_script03_2_M005 [033.4300-037.3100]: It was bristling with diamonds in the worst possible taste.
+Ses01M_script03_2_F004 [036.6200-041.2588]: Not at all. It was very pretty. I still wear it often.
+Ses01M_script03_2_M006 [040.6323-046.4500]: You sent out of your way to torture me over Peter Burden.
+Ses01M_script03_2_F005 [045.4500-049.7800]: I did not you worked whole thing up in your jealous imagination.
+Ses01M_script03_2_M007 [048.8400-054.1300]: Well
+Ses01M_script03_2_F006 [053.5900-055.8830]: Well
+Ses01M_script03_2_M008 [055.5157-057.7839]: What of it?
+Ses01M_script03_2_F007 [057.3735-063.4867]: It gave him a lot
+Ses01M_script03_2_M009 [062.8602-065.9708]: And what about me?
+Ses01M_script03_2_F008 [065.6468-070.4725]: If you hadn't been so suspicious and nosey you'd never known a thing about it.
+Ses01M_script03_2_M010 [070.2675-073.5745]: That's a nice point of view I must say.
+Ses01M_script03_2_F009 [073.7041-077.9800]: I'm bored with this conversation.
+Ses01M_script03_2_M011 [077.2200-084.2457]: So am I.  I'm bored stiff.  You want some brandy?
+Ses01M_script03_2_F010 [083.7100-086.1400]: No
+Ses01M_script03_2_M012 [085.7100-089.0750]: I'll have a little
+Ses01M_script03_2_F011 [088.6300-092.3800]: I don't see why you want any you already had two glasses.
+Ses01M_script03_2_M013 [091.6800-097.8825]: Oh
+Ses01M_script03_2_F012 [097.4225-103.9894]: I just think it's silly you know to go on and on and on about such a thing.
+Ses01M_script03_2_M014 [103.3845-111.6100]: You can hardly call three glasses of liquor in a whole evening going on and on and on.
+Ses01M_script03_2_F013 [111.9700-118.0700]: I just
+Ses01M_script03_2_M015 [117.1200-123.7600]: Hmm.  Well
+Ses01M_script03_2_F014 [123.2540-126.1575]: Do be quiet.
+Ses01M_script03_2_M016 [125.4600-127.4000]: Really
+Ses01M_script03_2_F015 [127.0800-129.8400]: Don't be stupid
+Ses01M_script03_2_M017 [129.9327-133.3025]: Nothing.
+Ses01M_script03_2_M018 [135.3979-138.1800]: Are you going out somewhere dear?
+Ses01M_script03_2_F016 [137.7740-142.4325]: No
+Ses01M_script03_2_M019 [141.8300-145.7234]: That reply has broken my heart.
+Ses01M_script03_2_F017 [145.5800-151.5900]: Well it's a woman's duty to allure the man. Watch me a minute will you?
+Ses01M_script03_2_M020 [152.4200-157.4700]: As matter the fact that's perfectly true.
+Ses01M_script03_2_F018 [156.5300-158.8400]: Oh no
+Ses01M_script03_2_M021 [158.7275-161.0388]: Yes
+Ses01M_script03_2_F019 [160.7580-164.3200]: Don't be stupid
+Ses01M_script03_2_M022 [165.1863-171.7100]: You know
+Ses01M_script03_2_F020 [171.2500-177.4700]: Oh
+Ses01M_script03_2_M023 [179.2200-184.3684]: You know what?  You snap
+Ses01M_script03_2_F021 [184.1800-187.1600]: Adders don't snap
+Ses01M_script03_2_M024 [186.5000-192.1500]: Nonsense.  They have a bag of venom behind of fangs and they snap.
+Ses01M_script03_2_F022 [191.3700-193.1525]: They sting.
+M: They snap.
+Ses01M_script03_2_F023 [193.1875-200.3318]: I don't care.  I don't care
+Ses01M_script03_2_M025 [200.0078-203.7500]: Did you see much of Peter Burden after our divorce?
+Ses01M_script03_2_F024 [202.9700-206.0400]: Yes
+Ses01M_script03_2_M026 [205.0800-209.0000]: I suppose you let him just kiss you or good deal more than too.
+Ses01M_script03_2_F025 [207.4700-209.6700]: Oh
+Ses01M_script03_2_M027 [209.1700-215.8300]: I suppose you two had a riotous time
+Ses01M_script03_2_F026 [215.0200-218.7700]: You're quite insufferable
+Ses01M_script03_2_M028 [218.2500-221.0700]: I am not in the least bit drunk.
+Ses01M_script03_2_F027 [220.2500-222.7000]: You always had a weak head.
+Ses01M_script03_2_M029 [222.0100-231.2375]: I think I told you once before that I had three minute liquor glasses the whole evening long.  A Child of two cannot get drunk on that.
+Ses01M_script03_2_F028 [230.5800-236.6800]: On the contrary
+Ses01M_script03_2_M030 [236.1100-248.5725]: Oh very
+Ses01M_script03_2_F029 [243.2700-245.2725]: Shut up.
+Ses01M_script03_2_F030 [248.0800-251.5900]: Not very funny darling.  Why don't you have some more brandy?
+Ses01M_script03_2_M031 [250.6300-253.9800]: That's a very good idea I think I will.
+Ses01M_script03_2_M032 [255.0051-260.8300]: Would you uh...turn that off please? You're going to wake the people upstairs.
+Ses01M_script03_2_F031 [258.3000-259.5200]: Why?
+Ses01M_script03_2_F032 [260.2900-264.2000]: There are no people upstairs. It's a photographer's studio.
+Ses01M_script03_2_M033 [264.1300-266.6825]: Well then you'll wake the people downstairs.
+Ses01M_script03_2_F033 [266.2400-268.7700]: They are away in Tunis.
+Ses01M_script03_2_M034 [268.7600-271.9275]: This is no time a year for Tunis.
+Ses01M_script03_2_F034 [272.5100-275.3400]: Turn it on again
+Ses01M_script03_2_M035 [274.8300-277.8275]: I will do no such thing.
+Ses01M_script03_2_F035 [277.3500-282.3600]: Very well if you insist on being boorish and idiotic.
+Ses01M_script03_2_M036 [282.5900-286.4300]: Turn it off. It's driving me mad.
+Ses01M_script03_2_F036 [284.3900-286.0500]: I won't.
+Ses01M_script03_2_M037 [287.6400-291.1950]: Turn it off.
+Ses01M_script03_2_F037 [290.7500-293.3400]: Stop it. No. Go away.
+Ses01M_script03_2_M038 [292.4900-294.5750]: Amanda listen. Listen.
+Ses01M_script03_2_F038 [293.3600-298.5300]: listen Oh I'm sick and tired of listening to you
+Ses01M_script03_2_M039 [297.9200-300.0800]: That's very amusing indeed.
+Ses01M_script03_2_F039 [299.6300-309.0100]: Oh you're cruel you're...you're...I hate you
+Ses01M_script03_2_M040 [304.2700-311.8500]: You...You're an evil minded
+Ses01M_script03_2_F040 [311.8125-316.7100]: This is the end do you hear me?  Finally and forever.
+Ses01M_script03_2_M041 [316.7900-319.0800]: You're not going like this.
+Ses01M_script03_2_F041 [318.4000-337.3200]: Oh yes I am...Oh yes I am. Let go of me. You let go. You...urgh...You're a cruel friend. I loathe and I hate you. Marry you again...Ha...Never
+Ses01M_script03_2_M042 [319.1300-320.8500]: No you're not.
+Ses01M_script03_2_M043 [321.5200-335.7700]: Shut up. Shut up. I wouldn't marry you again if you came crawling back to me on a bended knee. You are an evil tempered little vampire and I never want to see you again as long as I live.
