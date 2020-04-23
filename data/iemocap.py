@@ -65,15 +65,34 @@ class IEMOCAPFeatures(Dataset):
 
 
 
-def sigma(dists, kth=6):
+"""
+    To change kth, make changes in the arguments in line 73, 81 and 108.
+"""
+    
+    
+def sigma(dists, kth=25):
+    """
     # Get k-nearest neighbors for each node
     knns = np.partition(dists, kth, axis=-1)[:, kth::-1]
 
     # Compute sigma and reshape
     sigma = knns.sum(axis=1).reshape((knns.shape[0], 1))/kth
     return sigma + 1e-8 # adding epsilon to avoid zero value of sigma
+    """
 
-def compute_adjacency_matrix(audio, visual, use_audio=True, use_visual=True, kth=6):
+    # Compute sigma and reshape
+    try:
+        # Get k-nearest neighbors for each node
+        knns = np.partition(dists, kth, axis=-1)[:, kth::-1]
+        sigma = knns.sum(axis=1).reshape((knns.shape[0], 1))/kth
+    except ValueError:     # handling for graphs with num_nodes less than kth
+        num_nodes = dists.shape[0]
+        # this sigma value is irrelevant since not used for final compute_edge_list
+        sigma = np.array([1]*num_nodes).reshape(num_nodes,1)
+        
+    return sigma + 1e-8 # adding epsilon to avoid zero value of sigma
+
+def compute_adjacency_matrix(audio, visual, use_audio=True, use_visual=True, kth=25):
     # audio = audio.reshape(-1, 2)
     
     if use_audio and use_visual:
@@ -81,33 +100,56 @@ def compute_adjacency_matrix(audio, visual, use_audio=True, use_visual=True, kth
         visual_dist = cdist(visual, visual)  # Compute visual based distance
 
         # Compute adjacency
-        A = np.exp(- (audio_dist/sigma(audio_dist))**2 - (visual_dist/sigma(visual_dist))**2 )
+        A = np.exp(- (audio_dist/sigma(audio_dist, kth))**2 - (visual_dist/sigma(visual_dist, kth))**2 )
         
     elif use_audio:
         audio_dist = cdist(audio, audio)     # Compute audio based distance
         
         # Compute adjacency
-        A = np.exp(- (audio_dist/sigma(audio_dist))**2)
+        A = np.exp(- (audio_dist/sigma(audio_dist, kth))**2)
         
     elif use_visual:
         visual_dist = cdist(visual, visual)  # Compute visual based distance
         
         # Compute adjacency
-        A = np.exp(- (visual_dist/sigma(visual_dist))**2)
+        A = np.exp(- (visual_dist/sigma(visual_dist, kth))**2)
         
     # Convert adjacency to symmetric matrix
     A = 0.5 * (A + A.T)
     A[np.diag_indices_from(A)] = 0
     return A
 
-def compute_edges_list(A, kth=6+1):
-    
+def compute_edges_list(A, kth):
+    """
     # Get k-similar neighbor indices for each node
+    if 1==1:   
+        num_nodes = A.shape[0]
+        new_kth = num_nodes - kth
+        knns = np.argpartition(A, new_kth-1, axis=-1)[:, new_kth:-1]
+        knns_d = np.partition(A, new_kth-1, axis=-1)[:, new_kth:-1]
+    else:
+        knns = np.argpartition(A, kth, axis=-1)[:, kth::-1]
+        knns_d = np.partition(A, kth, axis=-1)[:, kth::-1]
+    return knns, knns_d
+    """
+    # Get k-similar neighbor indices for each node
+
     num_nodes = A.shape[0]
     new_kth = num_nodes - kth
-    knns = np.argpartition(A, new_kth-1, axis=-1)[:, new_kth:-1]
-    knns_values = np.partition(A, new_kth-1, axis=-1)[:, new_kth:-1]
-    return knns, knns_values
+    
+    if num_nodes > kth:
+        knns = np.argpartition(A, new_kth-1, axis=-1)[:, new_kth:-1]
+        knn_d = np.partition(A, new_kth-1, axis=-1)[:, new_kth:-1]
+    else:
+        # handling for graphs with less than kth nodes
+        # in such cases, the resulting graph will be fully connected
+        knns = np.tile(np.arange(num_nodes), num_nodes).reshape(num_nodes, num_nodes)
+        knn_d = A # NEW
+        
+        # removing self loop
+        knn_d = A[knns != np.arange(num_nodes)[:,None]].reshape(num_nodes,-1) 
+        knns = knns[knns != np.arange(num_nodes)[:,None]].reshape(num_nodes,-1)
+    return knns, knn_d 
 
 
 
@@ -121,6 +163,7 @@ class IEMOCAP_KNN_Graph(torch.utils.data.Dataset):
         else:
             self.dataset = IEMOCAPFeatures(train=False)
         
+        self.kth = 25
         self.use_audio = use_audio
         self.use_visual = use_visual
         
@@ -129,12 +172,12 @@ class IEMOCAP_KNN_Graph(torch.utils.data.Dataset):
         
     def _prepare(self):
         t0 = time.time()
-        print("[I] Preparing IEMOCAPDataset as a 6-NN similarity graph for split {} ...".format(self.split))
+        print("[I] Preparing IEMOCAPDataset as a {}-NN similarity graph for split {} ...".format(self.kth, self.split))
         self.adj_matrices, self.node_features, self.edge_features, self.edges_lists, self.labels = [], [], [], [], []
         for sample in self.dataset:
             visual, audio = sample[1], sample[2]
-            A = compute_adjacency_matrix(audio, visual, self.use_audio, self.use_visual)
-            edges_list, edge_values_list = compute_edges_list(A)
+            A = compute_adjacency_matrix(audio, visual, self.use_audio, self.use_visual, self.kth)
+            edges_list, edge_values_list = compute_edges_list(A, self.kth+1)
             edge_values_list = edge_values_list.reshape(-1)
 
             self.node_features.append(sample[0])      # using text features as node features
