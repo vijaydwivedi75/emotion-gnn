@@ -41,7 +41,7 @@ def generate_text_features(df, tokenizer, model):
     feature_dict = {}
     i = 0
     for session in df['session'].unique().tolist():
-        feature_dict[session] = df_combined[df_combined['key'].str.contains(session)].iloc[:,3:].to_numpy()
+        feature_dict[session] = df_combined[df_combined['session']==session].iloc[:,3:].to_numpy()
         
     return feature_dict
 
