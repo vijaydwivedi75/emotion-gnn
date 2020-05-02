@@ -9,6 +9,7 @@ import dgl
 from torch.utils.data.sampler import SubsetRandomSampler
 
 from train.metrics import accuracy_emotion_like_dialogueGCN_paper as accuracy
+from train.metrics import f1_emotion_like_dialogueGCN_paper as f1
 
 
 def get_train_valid_sampler(trainset, valid=0.1):
@@ -49,6 +50,7 @@ def evaluate_network(model, device, data_loader, epoch):
     model.eval()
     epoch_test_loss = 0
     epoch_test_acc = 0
+    epoch_test_f1 = 0
     nb_data = 0
     with torch.no_grad():
         for iter, (batch_graphs, batch_labels, batch_snorm_n, batch_snorm_e) in enumerate(data_loader):
@@ -61,7 +63,9 @@ def evaluate_network(model, device, data_loader, epoch):
             loss = model.loss(batch_scores, batch_labels) 
             epoch_test_loss += loss.detach().item()
             epoch_test_acc += accuracy(batch_scores, batch_labels)
+            epoch_test_f1 += f1(batch_scores, batch_labels)
         epoch_test_loss /= (iter + 1)
         epoch_test_acc /= (iter + 1)
+        epoch_test_f1 /= (iter + 1)
         
-    return epoch_test_loss, epoch_test_acc
+    return epoch_test_loss, epoch_test_acc, epoch_test_f1
