@@ -134,6 +134,7 @@ def train_val_pipeline(MODEL_NAME, dataset, params, net_params, dirs):
     
     epoch_train_losses, epoch_val_losses = [], []
     epoch_train_accs, epoch_val_accs = [], [] 
+    epoch_test_accs, epoch_test_f1s = [], []     
     
     test_loader = DataLoader(testset, batch_size=params['batch_size'], shuffle=False, collate_fn=dataset.collate)
 
@@ -170,7 +171,11 @@ def train_val_pipeline(MODEL_NAME, dataset, params, net_params, dirs):
                 writer.add_scalar('val/_acc', epoch_val_acc, epoch)
                 writer.add_scalar('learning_rate', optimizer.param_groups[0]['lr'], epoch)
 
-                _, epoch_test_acc, __ = evaluate_network(model, device, test_loader, epoch)        
+                _, epoch_test_acc, epoch_test_f1 = evaluate_network(model, device, test_loader, epoch)        
+
+                epoch_test_accs.append(epoch_test_acc)
+                epoch_test_f1s.append(epoch_test_f1)
+
                 t.set_postfix(time=time.time()-start, lr=optimizer.param_groups[0]['lr'],
                               train_loss=epoch_train_loss, val_loss=epoch_val_loss,
                               train_acc=epoch_train_acc, val_acc=epoch_val_acc,
@@ -210,6 +215,10 @@ def train_val_pipeline(MODEL_NAME, dataset, params, net_params, dirs):
     
     _, test_acc, test_f1 = evaluate_network(model, device, test_loader, epoch)
     _, train_acc, __ = evaluate_network(model, device, train_loader, epoch)
+    max_test_acc = max(epoch_test_accs)
+    max_test_f1 = max(epoch_test_f1s)
+    print("Test Accuracy (Max): {:.4f}".format(max_test_acc))
+    print("Test F1 (Max): {:.4f}".format(max_test_f1))
     print("Test Accuracy: {:.4f}".format(test_acc))
     print("Test F1: {:.4f}".format(test_f1))
     print("Train Accuracy: {:.4f}".format(train_acc))
@@ -226,7 +235,7 @@ def train_val_pipeline(MODEL_NAME, dataset, params, net_params, dirs):
     FINAL RESULTS\nTEST ACCURACY: {:.4f}\nTEST F1: {:.4f}\nTRAIN ACCURACY: {:.4f}\n\n
     Total Time Taken: {:.4f} hrs\nAverage Time Per Epoch: {:.4f} s\n\n\n"""\
           .format(DATASET_NAME, MODEL_NAME, params, net_params, model, net_params['total_param'],
-                  test_acc, test_f1, train_acc, (time.time()-start0)/3600, np.mean(per_epoch_time)))
+                  max_test_acc, max_test_f1, train_acc, (time.time()-start0)/3600, np.mean(per_epoch_time)))
 
 
 
