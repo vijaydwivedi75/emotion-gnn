@@ -51,7 +51,25 @@ python -m pip install torch-geometric
 python pytorchgeometric/train.py --graph-model --no-cuda
 ```
 
-## 4. Run specific 4-layer GNN model on the newly constructed graphs
+## 4. Fine-tune BERT-base model on IEMOCAP dataset
+
+```
+python fine_tune_bert.py
+```
+
+## 5. Generate the text embedding and export to pickle file
+
+```
+python generate_text_embedding.py
+```
+
+## 6. Change line #40 in data/iemocap.py to load the newly generated pickle file, eg: 
+
+```
+self.testVid = pickle.load(open('data/IEMOCAP_features_BERT_FT.pkl', 'rb'), encoding='latin1')
+```
+
+## 7. Run specific 4-layer GNN model on the newly constructed graphs
 
 Note: For now, sequential encoding is not being used
 ```
