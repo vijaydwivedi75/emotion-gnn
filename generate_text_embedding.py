@@ -12,28 +12,33 @@ warnings.filterwarnings('ignore')
 def generate_text_features(df, tokenizer, model):
     df.reset_index(drop=True, inplace=True)
 
-    tokenized = df['text'].apply((lambda x: tokenizer.encode(x, add_special_tokens=True)))
+    if tokenizer:
+        tokenized = df['text'].apply((lambda x: tokenizer.encode(x, add_special_tokens=True)))
 
-    max_len = 0
-    for i in tokenized.values:
-        if len(i) > max_len:
-            max_len = len(i)
+        max_len = 0
+        for i in tokenized.values:
+            if len(i) > max_len:
+                max_len = len(i)
 
-    padded = np.array([i + [0]*(max_len-len(i)) for i in tokenized.values])
+        padded = np.array([i + [0]*(max_len-len(i)) for i in tokenized.values])
 
-    np.array(padded).shape
+        np.array(padded).shape
 
-    attention_mask = np.where(padded != 0, 1, 0)
-    attention_mask.shape
+        attention_mask = np.where(padded != 0, 1, 0)
+        attention_mask.shape
 
-    input_ids = torch.tensor(padded)  
-    attention_mask = torch.tensor(attention_mask)
+        input_ids = torch.tensor(padded)  
+        attention_mask = torch.tensor(attention_mask)
 
-    with torch.no_grad():
-        last_hidden_states = model(input_ids, attention_mask=attention_mask)
+        with torch.no_grad():
+            last_hidden_states = model(input_ids, attention_mask=attention_mask)
 
-    features = last_hidden_states[0][:,0,:].numpy()
+        features = last_hidden_states[0][:,0,:].numpy()
     
+    else:
+        features = model.encode(df['text'].tolist())
+        features = np.array(features)
+
     df_F = pd.DataFrame(features)
 
     df_combined = pd.concat([df, df_F], axis=1)
@@ -49,13 +54,13 @@ def generate_text_features(df, tokenizer, model):
 def main():
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--model', help="BERT / DISTILBERT")
+    parser.add_argument('--model', help="BERT / DISTILBERT / BERT_FT / ROBERTA")
     args = parser.parse_args()
 
     if args.model is not None:
         MODEL_NAME = args.model
     else:
-        MODEL_NAME = "DISTILBERT"
+        MODEL_NAME = "BERT_FT"
     
     df = pd.read_csv('./data/dialoguegcn_utterances.csv')
     df.rename(columns={'Unnamed: 0':'key'}, inplace=True)
@@ -75,14 +80,26 @@ def main():
     print(train.shape, test.shape)
 
 
-    if MODEL_NAME == 'BERT':
+    if MODEL_NAME == 'ROBERTA':
+        model = SentenceTransformer('roberta-large-nli-stsb-mean-tokens')
+        tokenizer = None
+    elif MODEL_NAME == 'BERT_FT':
+        model_state_dict = torch.load("./models/fine_tuned_BERT_base_model_state.bin")
         model_class, tokenizer_class, pretrained_weights = (ppb.BertModel, ppb.BertTokenizer, 'bert-base-uncased')
+        tokenizer = tokenizer_class.from_pretrained(pretrained_weights)
+        model = model_class.from_pretrained(pretrained_weights, state_dict=model_state_dict)    
     else:
-        model_class, tokenizer_class, pretrained_weights = (ppb.DistilBertModel, ppb.DistilBertTokenizer, 'distilbert-base-uncased')
+        if MODEL_NAME == 'BERT':
+            model_class, tokenizer_class, pretrained_weights = (ppb.BertModel, ppb.BertTokenizer, 'bert-base-uncased')
+        elif MODEL_NAME == 'BERT_SA':
+            model_class, tokenizer_class, pretrained_weights = (ppb.BertModel, ppb.BertTokenizer, 'lvwerra/bert-imdb')           
+        else:
+            model_class, tokenizer_class, pretrained_weights = (ppb.DistilBertModel, ppb.DistilBertTokenizer, 'distilbert-base-uncased')
 
-    # Load pretrained model/tokenizer
-    tokenizer = tokenizer_class.from_pretrained(pretrained_weights)
-    model = model_class.from_pretrained(pretrained_weights)
+        # Load pretrained model/tokenizer
+        tokenizer = tokenizer_class.from_pretrained(pretrained_weights)
+        model = model_class.from_pretrained(pretrained_weights)
+
 
 
     #Generate text embeddings
